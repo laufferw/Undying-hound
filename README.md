@@ -36,3 +36,4 @@ A serialized xianxia LitRPG about Romeo, a small red-and-white piebald dachshund
 - [Chapter 24: A Coat Name](chapters/024-a-coat-name.md)
 - [Chapter 25: Borrowed Feet](chapters/025-borrowed-feet.md)
 - [Chapter 26: No Laugh in It](chapters/026-no-laugh-in-it.md)
+- [Chapter 27: Below the Grating](chapters/027-below-the-grating.md)
