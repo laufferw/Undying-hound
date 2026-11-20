@@ -38,3 +38,4 @@ A serialized xianxia LitRPG about Romeo, a small red-and-white piebald dachshund
 - [Chapter 26: No Laugh in It](chapters/026-no-laugh-in-it.md)
 - [Chapter 27: Below the Grating](chapters/027-below-the-grating.md)
 - [Chapter 28: A Hand's Width](chapters/028-a-hands-width.md)
+- [Chapter 29: Not One Word Out Loud](chapters/029-not-one-word-out-loud.md)
