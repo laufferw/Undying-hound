@@ -2,27 +2,27 @@
 
 Before Bao told him the way down, Romeo asked the other question. He had been carrying it since the bitterroot nearly burned, and he was not going to climb into a river with it still in his mouth.
 
-*A collector is coming,* he said. *The day after the naming. Bitterroot fooled a Nascent Soul twice, and the second time it nearly didn't. I need something better. You've hidden from everything that ever looked for you. How do I hide from them?*
+⟨A collector is coming,⟩ he said. ⟨The day after the naming. Bitterroot fooled a Nascent Soul twice, and the second time it nearly didn't. I need something better. You've hidden from everything that ever looked for you. How do I hide from them?⟩
 
 The old turtle took his time, the way he took his time over everything, and the cold took its time over Romeo. His teeth had stopped chattering, which he knew was worse than chattering.
 
-*You're asking the wrong question,* Bao said at last. *A collector doesn't look for dogs. The world's full of dogs. It looks for what's missing.*
+⟨You're asking the wrong question,⟩ Bao said at last. ⟨A collector doesn't look for dogs. The world's full of dogs. It looks for what's missing.⟩
 
-*Missing?*
+⟨Missing?⟩
 
-*Every bound beast smells of silver, Romeo. Faint. Under the fur, under the qi. The wolves at your sect will reek of it. You don't. You smell of dirt and stubbornness and that girl, and nothing else. To something that hunts the unbound, you stand out like a lamp in a cellar.*
+⟨Every bound beast smells of silver, Romeo. Faint. Under the fur, under the qi. The wolves at your sect will reek of it. You don't. You smell of dirt and stubbornness and that girl, and nothing else. To something that hunts the unbound, you stand out like a lamp in a cellar.⟩
 
 Romeo thought of the assessment stone with its silver band. Of the thread above his head, humming. Of a scent his nose had filed away without his asking: *Silver (bound). Source: unknown.*
 
-*So I need to smell bound,* he said slowly.
+⟨So I need to smell bound,⟩ he said slowly.
 
-*You need to wear a little of what you hate.* The stone around him shifted, the way an old man's shoulders shift. *I didn't say you'd like that either. I said it was the answer. Now hold your breath. I'm only going to do this once, and I can only feel one toe.*
+⟨You need to wear a little of what you hate.⟩ The stone around him shifted, the way an old man's shoulders shift. ⟨I didn't say you'd like that either. I said it was the answer. Now hold your breath. I'm only going to do this once, and I can only feel one toe.⟩
 
 Somewhere beneath Romeo's paws, something ground open. The air pocket tilted. The water around his hind legs, which had been as still as a bowl, began very gently to pull.
 
-*Where does it go?*
+⟨Where does it go?⟩
 
-*Down,* said Bao. *Where else does water go? You followed it up, didn't you? Follow it back.*
+⟨Down,⟩ said Bao. ⟨Where else does water go? You followed it up, didn't you? Follow it back.⟩
 
 Romeo understood then, a heartbeat before the pull became a drag and the drag became a hand closing around his whole body. The seam. The thread of earth qi he had followed up the mountain from the trough under Ling Mei's hut, spring by spring, the black pines, the stain on the rock face, all of it fed from here. The lake did not sit on top of the mountain. It drained down through it, along the same crack in the world his nose had walked.
 

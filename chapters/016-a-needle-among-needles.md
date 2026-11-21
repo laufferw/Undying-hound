@@ -10,19 +10,19 @@ On the ridge, the masked rider had lowered his face again. The line of horses ke
 
 He looked back at the hut. Twelve paces of chest-deep snow, every one of which he had already ploughed, so that there was now a trench leading from Ling Mei's door to the exact spot where he stood, as plain as a line drawn in ink. Anybody with eyes could follow it. Anybody with a nose could follow the shaving.
 
-*Brow,* he said. *How loud am I?*
+⟨Brow,⟩ he said. ⟨How loud am I?⟩
 
-The wolf considered him, pale-eyed, steaming gently. *To me? Like a cricket in a wall.* A pause. *To him, I do not know. He carries a great deal of silver. Things that carry a great deal of silver hear it well.*
+The wolf considered him, pale-eyed, steaming gently. ⟨To me? Like a cricket in a wall.⟩ A pause. ⟨To him, I do not know. He carries a great deal of silver. Things that carry a great deal of silver hear it well.⟩
 
 Romeo looked at the wolf. He looked, in particular, at the wolf's chest, which was deep as a barrel, and at the long pale legs under it, and at the space between those legs and the snow, which was exactly, insultingly, the height of a dachshund.
 
 Every bound beast in this sect smelled of silver. Brow smelled of it most of all. It was worked into his coat and his breath and the long cold line of the binding that ran from him up the mountain to Fang Wuji's hand. Beside that, a rice-grain curl at a small dog's throat was a cricket. Beneath it, perhaps, it was nothing at all.
 
-*Where would you hide a needle,* said Romeo, *if someone were looking for a needle?*
+⟨Where would you hide a needle,⟩ said Romeo, ⟨if someone were looking for a needle?⟩
 
 Brow's ears tipped forward.
 
-*Stand up,* said Romeo. *And walk slowly. And for the love of every heaven, do not sit down.*
+⟨Stand up,⟩ said Romeo. ⟨And walk slowly. And for the love of every heaven, do not sit down.⟩
 
 ---
 
@@ -32,18 +32,18 @@ Brow rose out of the snow in one long unfolding, and the world above Romeo becam
 
 His legs were much shorter than Brow's. This meant that for every step the wolf took, Romeo took three, scuttling, his belly furrowing the snow, his ears dragging, his tail held stiff and low behind him so as not to tangle in a hind leg. Twice Brow's foot came down a hair's breadth from his tail. Once the wolf, misjudging, slowed when Romeo did not, and Romeo walked his nose straight into the inside of a foreleg, and sneezed, and nearly lost the whole thing to a fit of indignation.
 
-*You are doing this on purpose,* he said.
+⟨You are doing this on purpose,⟩ he said.
 
-*I have never walked with a dog under me,* said Brow, with what might, in a less solemn creature, have been amusement. *You are very long.*
+⟨I have never walked with a dog under me,⟩ said Brow, with what might, in a less solemn creature, have been amusement. ⟨You are very long.⟩
 
-*I am the correct length. Everything else is wrong.*
+⟨I am the correct length. Everything else is wrong.⟩
 
 But at his throat, the warm pull of the shaving faded. It did not stop. It went soft, the way a voice goes soft in a crowded room, one small note lost in the great dull chord of the wolf's silver. Romeo felt it waver, turn uncertainly, and point, of all things, up at Brow's belly, as though it had decided that this enormous animal was the nearest thing to home.
 
 **\[Silver shaving (bound): resonance masked.\]**  
 **\[Source: proximity to bound beast (Brow). Effectiveness: high.\]**
 
-*You see?* said Romeo to nobody in particular. *A dog can be useful.*
+⟨You see?⟩ said Romeo to nobody in particular. ⟨A dog can be useful.⟩
 
 They went back along the trench, wolf and the dog under the wolf, as slowly as a funeral, and at the hut door Brow lay down across the threshold exactly as he had the night before, chin on paws, back to the world. Romeo slid out from under his chest and through the crack of the door like a sausage down a drain.
 
@@ -55,7 +55,7 @@ Ling Mei woke to a cold wet nose in her ear and sat up so fast she hit her head 
 
 "What, what—"
 
-*He's here,* said Romeo. *Three horses. Coming down the pass now. You have time to put your hair up and look surprised, and not much else.*
+⟨He's here,⟩ said Romeo. ⟨Three horses. Coming down the pass now. You have time to put your hair up and look surprised, and not much else.⟩
 
 She did not waste breath. She put her hair up. She brushed the snow off him with the corner of the blanket and found he was soaked again and said a word that outer disciples were not supposed to know. Then the bell on the lower terrace began to ring, the long double stroke that meant every outer disciple to the yard, and she picked him up, wrapped him in the blanket so that only his head and ears showed, and went out past Brow into the morning.
 

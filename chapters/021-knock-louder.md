@@ -44,7 +44,7 @@ He had prepared for this. All the way down the hill he had prepared for it.
 
 "You smell," she went on, "like a wet sock that somebody dragged through a pine tree."
 
-*I had prepared,* said Romeo, with dignity, *for "old boot."*
+⟨I had prepared,⟩ said Romeo, with dignity, ⟨for "old boot."⟩
 
 "That's coming."
 
@@ -58,35 +58,35 @@ He breathed her in, because he could not help it. Fear first, sharp and clean, t
 
 "You went up the mountain," she said. "Alone. After a Hound-Catcher."
 
-*After a Hound-Catcher's escort. It's a different thing.*
+⟨After a Hound-Catcher's escort. It's a different thing.⟩
 
 "Is it."
 
-*Slightly.*
+⟨Slightly.⟩
 
 She put the boot down. "And now you're going to the lake."
 
-*We are,* said Romeo.
+⟨We are,⟩ said Romeo.
 
 She looked at him. He found, to his annoyance, that he had to look at the charcoal instead.
 
-*I was at the spring,* he said. *The lake is uphill from the spring. I could have gone on.* His tail moved once against the floor, without asking. *I have done the end of the world on my own before. Several times. I didn't care for it.*
+⟨I was at the spring,⟩ he said. ⟨The lake is uphill from the spring. I could have gone on.⟩ His tail moved once against the floor, without asking. ⟨I have done the end of the world on my own before. Several times. I didn't care for it.⟩
 
 Ling Mei said nothing at all. She took the blanket off her shoulders, picked him up in it, and began to rub him dry, hard, the way you would dry a dog that had come out of a river. She did his ears, which he permitted. She did his back, carefully, along the long ache of it, which he permitted with his eyes half shut. She did his belly, and his left hind leg began to kick in the air entirely of its own accord.
 
-*That is a reflex,* said Romeo. *It means nothing.*
+⟨That is a reflex,⟩ said Romeo. ⟨It means nothing.⟩
 
 "Of course it doesn't." She set him down on the blanket and stood up and began pulling on her boots. "How far is it?"
 
-*For you, the rest of the night. For me, through that snow...* He considered it honestly. *Some time next spring.*
+⟨For you, the rest of the night. For me, through that snow...⟩ He considered it honestly. ⟨Some time next spring.⟩
 
 "Then you're not walking."
 
-*I am not luggage.*
+⟨I am not luggage.⟩
 
 "You're shorter than the snow."
 
-*I am the correct length,* said Romeo. *The snow is wrong.*
+⟨I am the correct length,⟩ said Romeo. ⟨The snow is wrong.⟩
 
 "Then the snow can apologise to you later." She shrugged on her padded outer coat, left it open at the front, scooped him up and put him inside it against her chest, and closed it over him so that only his head stuck out under her chin. Her left arm curled beneath him to hold him there. It curled easily. It was the arm that would not straighten.
 
@@ -104,11 +104,11 @@ It was a different mountain from inside a coat. Romeo had walked a great many ro
 
 He did the only thing he could do. He kept his head out in the freezing air and gave her his nose.
 
-*Left,* he said. *Rock under the snow there. Not that left. The other left. Good.*
+⟨Left,⟩ he said. ⟨Rock under the snow there. Not that left. The other left. Good.⟩
 
 "There is only one left."
 
-*There are many lefts, and you keep finding the wrong one. Up. That's a hare's track; the hare knows where the crust is firm. Follow the hare.*
+⟨There are many lefts, and you keep finding the wrong one. Up. That's a hare's track; the hare knows where the crust is firm. Follow the hare.⟩
 
 She followed the hare. The hare had known.
 
@@ -116,7 +116,7 @@ Twice he stopped her with a word and they stood silent in the dark while he read
 
 "Is it the stranger?" she whispered.
 
-*It's under us,* said Romeo. *Whatever it is. Keep going.*
+⟨It's under us,⟩ said Romeo. ⟨Whatever it is. Keep going.⟩
 
 Somewhere on the long white shoulder of the mountain, with her arm under him and her heartbeat in his ribs and the cold kept out by her coat, Romeo did a thing he had not done properly in two days. He fell asleep.
 
@@ -135,7 +135,7 @@ The dark had gone grey. The wind had dropped. Ling Mei stood at the top of a las
 
 It was frozen from shore to shore. The ice was the colour of an old knife and quite unbroken, and the snow on it lay smooth and trackless all the way across. No hole. No crack. No great shape rising out of the water. Nothing moved anywhere in the whole bowl of the mountain, and the stillness of it went into Romeo like cold water down the back of the neck.
 
-*Put me down,* he said.
+⟨Put me down,⟩ he said.
 
 She put him down. The snow came up to his chest. He went through it anyway, the way his ancestors had gone into badger earths, low and stubborn and without the least interest in what anyone thought of his chances, down the slope to the jumble of boulders at the water's edge.
 
@@ -155,8 +155,8 @@ Then two.
 
 Romeo did not breathe. Behind him Ling Mei did not breathe. And then, from out on the lake, from somewhere deep beneath that smooth grey ice, a voice he had known for three thousand years spoke into his mind, very faint and very slow and more frightened than he had ever heard it.
 
-*Romeo. Little brother. Don't answer that.*
+⟨Romeo. Little brother. Don't answer that.⟩
 
 A long pause, the way Bao always paused.
 
-*I haven't knocked on anything in four hundred years. That isn't me.*
+⟨I haven't knocked on anything in four hundred years. That isn't me.⟩

@@ -36,15 +36,15 @@ And the thread above Romeo's head was plucked again.
 
 Not once, this time. Slowly, over and over, the way you might rock a cradle with one finger. Each note slid down through the black water and past him into the depths, and at the bottom of it Romeo felt Bao's great slow mind dip, and rise a little less, and dip again.
 
-*Old shell.*
+⟨Old shell.⟩
 
-Nothing. Then, very far away: *...mm.*
+Nothing. Then, very far away: ⟨...mm.⟩
 
-*Bao. Stay awake.*
+⟨Bao. Stay awake.⟩
 
-*Is it...* The thought trailed off. *I was dreaming of silk.*
+⟨Is it...⟩ The thought trailed off. ⟨I was dreaming of silk.⟩
 
-*It's not a dream,* said Romeo. *It's a lullaby, and it's for you, and you're not a hatchling. Wake up.*
+⟨It's not a dream,⟩ said Romeo. ⟨It's a lullaby, and it's for you, and you're not a hatchling. Wake up.⟩
 
 Pluck. Pluck. The stone under his chin was cooling again.
 
@@ -78,7 +78,7 @@ Then the lake came into the tunnel.
 
 It came through the cracked clay all at once, black and cold beyond cold, and filled the space around him to his chest before he could turn. Romeo did what every dachshund does in deep water, which was to swim with tremendous energy and very little result. His short legs churned. His long body sank in the middle like a wet rope. The lunch bundle dragged at his neck. Above him the tunnel's roof was a hand's breadth away, then a finger's, then nothing.
 
-*Under,* said Bao. The voice was no longer far away. It was everywhere, slow and enormous and annoyed. *Not up. Under. Come under, you ridiculous animal.*
+⟨Under,⟩ said Bao. The voice was no longer far away. It was everywhere, slow and enormous and annoyed. ⟨Not up. Under. Come under, you ridiculous animal.⟩
 
 Under was the one direction Romeo had never in his life refused. He shut his eyes and his mouth, put his nose down, and went low, into the gap where the shell's rim had lifted off the clay, under the edge of the oldest stone in the second tier, the way a dog goes under a porch.
 
@@ -100,45 +100,45 @@ He felt the extra thread of spirit settle into his channels, thin and clean as s
 
 ---
 
-*Three,* said Bao, after a while. The voice had shrunk back down to something that fit inside a skull, but it was awake now, really awake, sour and slow and unmistakable. *I shrugged a whole lake and I got three.*
+⟨Three,⟩ said Bao, after a while. The voice had shrunk back down to something that fit inside a skull, but it was awake now, really awake, sour and slow and unmistakable. ⟨I shrugged a whole lake and I got three.⟩
 
-*You got three more than you had.*
+⟨You got three more than you had.⟩
 
-*I can feel a toe.* A pause, long enough for Romeo's teeth to start chattering. *One toe. Back left. It's cold. I'd forgotten my feet could be cold. I don't care for it.*
+⟨I can feel a toe.⟩ A pause, long enough for Romeo's teeth to start chattering. ⟨One toe. Back left. It's cold. I'd forgotten my feet could be cold. I don't care for it.⟩
 
-*Welcome back,* said Romeo.
+⟨Welcome back,⟩ said Romeo.
 
-*You barked at me.*
+⟨You barked at me.⟩
 
-*You told me to knock louder.*
+⟨You told me to knock louder.⟩
 
-*I told you to knock. Like a civilised creature. Not to stand in a hole and scream at my shell like a fishwife.* Another pause. *It was very loud, Romeo. For something your size.*
+⟨I told you to knock. Like a civilised creature. Not to stand in a hole and scream at my shell like a fishwife.⟩ Another pause. ⟨It was very loud, Romeo. For something your size.⟩
 
 From Bao, that was nearly a speech of gratitude. Romeo's tail, still floating behind him, wagged in the water. He let it.
 
-*Who is it?* he asked. *On the shore.*
+⟨Who is it?⟩ he asked. ⟨On the shore.⟩
 
 The silence went on so long he thought the old turtle had fallen asleep again.
 
-*I don't know,* Bao said at last. *I've been asleep. But I know what it smells like, because I've been smelling it since the leaves fell. It smells like the chain, Romeo. The one that came down out of the clouds. I was a hundred li away, under water, and I smelled it then. It smells like that.*
+⟨I don't know,⟩ Bao said at last. ⟨I've been asleep. But I know what it smells like, because I've been smelling it since the leaves fell. It smells like the chain, Romeo. The one that came down out of the clouds. I was a hundred li away, under water, and I smelled it then. It smells like that.⟩
 
 Romeo hung on the ridge of shell in the dark, and did not flinch, because his neck was under water and there was nothing to flinch from.
 
-*It knew I can't die,* he said.
+⟨It knew I can't die,⟩ he said.
 
-*Then it knows more than it ought to.* The shell around him shifted very faintly, the way a person shifts when they are thinking. *And it's patient. It'll come back next new moon and tie the three I broke, and then some.* Then, sharper: *And you've got somewhere to be. You smell of a person. A young one. And of fear that isn't yours.*
+⟨Then it knows more than it ought to.⟩ The shell around him shifted very faintly, the way a person shifts when they are thinking. ⟨And it's patient. It'll come back next new moon and tie the three I broke, and then some.⟩ Then, sharper: ⟨And you've got somewhere to be. You smell of a person. A young one. And of fear that isn't yours.⟩
 
-*Her name is Ling Mei. There's a naming at the sect the morning after tomorrow. If she brings no dog, they'll know. And a collector is coming the day after that.*
+⟨Her name is Ling Mei. There's a naming at the sect the morning after tomorrow. If she brings no dog, they'll know. And a collector is coming the day after that.⟩
 
-*Can you walk home in a day and a half?* asked Bao.
+⟨Can you walk home in a day and a half?⟩ asked Bao.
 
-*Just about. If nothing goes wrong.*
+⟨Just about. If nothing goes wrong.⟩
 
-*Something always goes wrong for you,* said Bao. *Your luck is a disgrace. I've said so for two thousand years.* A long, slow breath went through the stone. *There's a faster way down than the way you came. Water goes downhill quicker than dogs. You won't like it.*
+⟨Something always goes wrong for you,⟩ said Bao. ⟨Your luck is a disgrace. I've said so for two thousand years.⟩ A long, slow breath went through the stone. ⟨There's a faster way down than the way you came. Water goes downhill quicker than dogs. You won't like it.⟩
 
 Romeo, who was soaked to the skin, bleeding into his eye, holding a sodden rice ball around his neck and clinging to the underside of a turtle at the bottom of a lake, considered how much more there was in the world for him to dislike.
 
-*Tell me,* he said.
+⟨Tell me,⟩ he said.
 
 ---
 

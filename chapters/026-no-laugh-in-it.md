@@ -6,15 +6,15 @@ He went along the foot of the wall with his belly in the snow, down into the dit
 
 The earth closed around him like a held breath. Forty paces. Level. His.
 
-*Ling Mei,* he said as he ran. *Are you still sitting on it?*
+⟨Ling Mei,⟩ he said as he ran. ⟨Are you still sitting on it?⟩
 
 A whisper, so faint it barely reached the floor: "Yes."
 
-*Stay there. Something is in the den. It is underneath you. It will try to make you get up.*
+⟨Stay there. Something is in the den. It is underneath you. It will try to make you get up.⟩
 
 "How?"
 
-*By being someone you want to see.* He thought fast, the way he used to think in the old days with a sword coming down. *Listen to me. I do not speak out loud. I bark. I have never once said a word to you with my mouth. If you hear my voice in the air, it is not me.*
+⟨By being someone you want to see.⟩ He thought fast, the way he used to think in the old days with a sword coming down. ⟨Listen to me. I do not speak out loud. I bark. I have never once said a word to you with my mouth. If you hear my voice in the air, it is not me.⟩
 
 Silence over his head; then the creak of a board, and of a girl settling her weight more firmly, the way you would sit on the lid of a pot that was trying to boil over.
 
@@ -64,7 +64,7 @@ He had heard a "Sit" with no laugh in it exactly once before.
 
 Romeo stopped trying not to obey. He simply didn't. He laid his chin down on his paws in the mouth of his tunnel, which is not sitting, which is the opposite of sitting, which is what a dachshund does at the mouth of a badger's sett when it intends to stay there until the end of the world.
 
-*You have his voice,* he said into the dark, sending it at the hole the way he would send to Bao, with no idea whether anything was there to hear. *You don't have his laugh.*
+⟨You have his voice,⟩ he said into the dark, sending it at the hole the way he would send to Bao, with no idea whether anything was there to hear. ⟨You don't have his laugh.⟩
 
 ---
 
@@ -111,15 +111,15 @@ He put his nose on it and did not move for a long time.
 
 "Romeo?" Ling Mei whispered at last. "Is that you breathing?"
 
-*Yes. It's gone. You can get up.*
+⟨Yes. It's gone. You can get up.⟩
 
 "How do I know it's you?"
 
-*Because I'm the one who isn't talking out loud,* he said. *And because your bottom must be frozen.*
+⟨Because I'm the one who isn't talking out loud,⟩ he said. ⟨And because your bottom must be frozen.⟩
 
 There was a pause, and then a sound that was half a sob and half a laugh, and the board did not lift. "I'm staying here," she said. "Until it's light. You can come up and complain."
 
-*I can't climb the shaft.*
+⟨I can't climb the shaft.⟩
 
 "Then complain from down there."
 

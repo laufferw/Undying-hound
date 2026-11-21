@@ -10,7 +10,7 @@ When the light went, he crawled the forty level paces of the back-door tunnel on
 
 "You can come in," she said. "Properly. Through the door, like a guest."
 
-*I am not a guest,* said Romeo, as she lifted him out. *I am a tenant. I live in the basement.*
+⟨I am not a guest,⟩ said Romeo, as she lifted him out. ⟨I am a tenant. I live in the basement.⟩
 
 "You're a lodger who doesn't pay," said Ling Mei, "and who put his soup in me."
 
@@ -26,11 +26,11 @@ It did not come.
 
 He had pushed it into her all at once, in the time of a breath, the way you throw a coat over a lamp. Now he went looking for it, and found that the thing he had thrown was no longer there in a heap. Ling Mei's tide had done what it did to everything: taken it down and in, round and under, the wrong way, and spread it through her meridians in threads so thin that his own qi no longer felt like his. Pulling on the bond only made her gasp, and the threads went deeper, as fish do when you slap the water.
 
-*Hm,* said Romeo.
+⟨Hm,⟩ said Romeo.
 
 "That's not a good sound," said Ling Mei.
 
-*It's a thinking sound.*
+⟨It's a thinking sound.⟩
 
 "It's the sound the physician makes before he says 'interesting.'"
 
@@ -50,11 +50,11 @@ It took a long time. Somewhere in the middle of it, Ling Mei's breathing changed
 
 "It's going," she whispered. "Oh. That's horrible. It's like someone taking a hot stone out of your bed."
 
-*I'll be quick.*
+⟨I'll be quick.⟩
 
 "Don't be quick. Be careful." A pause. "It's colder without it."
 
-*It always is,* said Romeo, and went on.
+⟨It always is,⟩ said Romeo, and went on.
 
 ---
 
@@ -64,13 +64,13 @@ He had known she would ask. She had felt his tail go still against her ribs in t
 
 So he told her. The window. The old word for snow. The name under Brow's coat, which Brow had never said aloud to anyone in his life, said aloud under a window at night by a thing that had none of its own.
 
-*In his mother's voice,* said Romeo.
+⟨In his mother's voice,⟩ said Romeo.
 
 Ling Mei was quiet for so long that he thought she had fallen asleep with his qi in her. Then she said, very low:
 
 "It used Ah-Shu's mother, too."
 
-*Yes.*
+⟨Yes.⟩
 
 "And it used your old man. Shen. At your hole." Her breath moved the fur between his ears. "And it used you. On me."
 
@@ -80,11 +80,11 @@ Romeo stopped walking her channels.
 
 He lay against her in the cold and turned that over, the way he had turned over a great many things in three thousand years, and found nothing wrong with it anywhere. It was exactly right. It was the sort of thing he ought to have said himself, two days ago, and had not, because he had been too busy being bitten by the past to notice the shape of the teeth.
 
-*You,* he said, *are going to be very annoying when you're old.*
+⟨You,⟩ he said, ⟨are going to be very annoying when you're old.⟩
 
 "I'm annoying now."
 
-*Yes. But you'll have practice.*
+⟨Yes. But you'll have practice.⟩
 
 He went back to work. The last threads were the hardest, lying deep along the bottom of her tide where the cold was oldest, and when he coaxed the final one loose it came up out of her and into him all at once, a whole small warm sea rushing back into its basin.
 
@@ -100,11 +100,11 @@ It had gone round her the wrong way and come back the right way, and somewhere o
 
 Romeo read it twice. He had not risen a level since the night the knock came, and he had not risen one at all, in any life, by being carried round inside someone else.
 
-*Huh,* he said.
+⟨Huh,⟩ he said.
 
 "Is that the interesting sound?"
 
-*That's the sound of an old dog being surprised.* He did not tell her what had surprised him. He told her something else, which was also true: *You did that. Your tide did. It washed it.*
+⟨That's the sound of an old dog being surprised.⟩ He did not tell her what had surprised him. He told her something else, which was also true: ⟨You did that. Your tide did. It washed it.⟩
 
 "Good," said Ling Mei. "Then you owe me rent."
 
@@ -114,7 +114,7 @@ For a while neither of them spoke. Outside, wind went down the lane and pushed s
 
 "I've decided," said Ling Mei.
 
-*About the turtle?*
+⟨About the turtle?⟩
 
 "About the other thing. The name."
 
@@ -122,11 +122,11 @@ Romeo kept very still.
 
 "Not one I'd tell you," she said quickly. "Not one I'd tell anybody. You said it only works if it's never said out loud. So it won't be." She shifted her crooked arm under her head. "I just thought, if that thing ever stands outside this door using somebody's voice, the one I'd open it for, and calls me, then at least it'll be calling someone who isn't all of me."
 
-*That's not how names are usually chosen,* said Romeo. *Usually there is a ceremony. Incense. A grandfather who can't remember why.*
+⟨That's not how names are usually chosen,⟩ said Romeo. ⟨Usually there is a ceremony. Incense. A grandfather who can't remember why.⟩
 
 "Well, I've got a dog and a cold floor."
 
-*That,* said Romeo, *is how I chose mine.*
+⟨That,⟩ said Romeo, ⟨is how I chose mine.⟩
 
 She did not ask about that. He felt her not ask, and loved her for it, which was inconvenient, and which he had known was coming since the bun.
 
@@ -142,11 +142,11 @@ Romeo let out a long breath through his nose and did not say anything, because t
 
 "There," said Ling Mei. "Done. Don't ask."
 
-*I wasn't going to.*
+⟨I wasn't going to.⟩
 
 "You were. You're very rude."
 
-*I'm very old.*
+⟨I'm very old.⟩
 
 "Same thing," said Ling Mei, and he heard her smiling.
 
@@ -158,11 +158,11 @@ Fang wanted the dog in his room at dusk on the dark night. Ah-Shu wanted the dog
 
 "Then ask him," said Ling Mei. "Tomorrow night."
 
-*Over the shoulder of the mountain? It's most of a night by dark, Ling Mei. And deep snow. You've seen me in deep snow. I am a small red plough.*
+⟨Over the shoulder of the mountain? It's most of a night by dark, Ling Mei. And deep snow. You've seen me in deep snow. I am a small red plough.⟩
 
 "I've seen you in a coat," said Ling Mei. "You fit."
 
-*Your buckets—*
+⟨Your buckets—⟩
 
 "I'll draw them in the morning, and I'll carry you in the night, and I'll sleep the day after. Fang's order is for the dark night. Nobody said anything about the night before." She yawned against the top of his head. "You promised the wolf you'd ask a turtle before you did something stupid. I heard you not saying it. So you're asking the turtle."
 
@@ -185,20 +185,20 @@ Level 4, with a strained back, a split eyebrow, no food in two days but half a t
 
 His eyes had nearly closed when the voice came down the hill.
 
-*Small dog.*
+⟨Small dog.⟩
 
 Faint, like snow sliding off a far roof. Mind to mind, only to him.
 
-Romeo lifted his head off Ling Mei's arm. *Brow.*
+Romeo lifted his head off Ling Mei's arm. ⟨Brow.⟩
 
 The wolf did not answer at once. When he did, his rusty-gate voice was so even that it frightened Romeo more than a howl would have.
 
-*It came back. Under the window. An hour ago.* A pause. *He was asleep. He did not hear it.*
+⟨It came back. Under the window. An hour ago.⟩ A pause. ⟨He was asleep. He did not hear it.⟩
 
-*Brow—*
+⟨Brow—⟩
 
-*It said my name again. In her voice. The way she said it when I was blind and could not find her in the den.*
+⟨It said my name again. In her voice. The way she said it when I was blind and could not find her in the den.⟩
 
 The wind pushed more snow under the door. Ling Mei slept on.
 
-*Small dog,* said Brow, very quietly, *I answered.*
+⟨Small dog,⟩ said Brow, very quietly, ⟨I answered.⟩

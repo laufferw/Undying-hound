@@ -24,7 +24,7 @@ Then the slot was only a slot again, a dark mouth under a boulder, and the smell
 
 "Romeo," Ling Mei breathed. "What hat?"
 
-*Walk,* he said. *Please. Just walk.*
+⟨Walk,⟩ he said. ⟨Please. Just walk.⟩
 
 ---
 
@@ -34,7 +34,7 @@ The way back over the white shoulder of the mountain was the way they had come i
 
 Romeo rode inside the coat with his head out under her chin and did the only work he could still do. He read the wind.
 
-*Left,* he would say, and she would go left, along the lee of a drift where the snow was firm. *Not that way. Something has been digging there and it has bigger teeth than me.* Once, near noon, he smelled woodsmoke and wet felt coming up the far side of the ridge, and he made her lie flat behind a hummock of rock while two woodcutters argued their way past about whose turn it was to carry the axe. They never looked up. People looking for trouble on a mountain look for something taller than a hummock.
+⟨Left,⟩ he would say, and she would go left, along the lee of a drift where the snow was firm. ⟨Not that way. Something has been digging there and it has bigger teeth than me.⟩ Once, near noon, he smelled woodsmoke and wet felt coming up the far side of the ridge, and he made her lie flat behind a hummock of rock while two woodcutters argued their way past about whose turn it was to carry the axe. They never looked up. People looking for trouble on a mountain look for something taller than a hummock.
 
 The trouble was not the woodcutters. The trouble was her.
 
@@ -46,21 +46,21 @@ It came up to his shoulders. He had expected that. He had not expected a crust o
 
 "Get back in the coat," said Ling Mei.
 
-*I am walking,* said Romeo, and ploughed forward a full body-length, and stopped, and sneezed. *I am the correct length for this. The snow is wrong.*
+⟨I am walking,⟩ said Romeo, and ploughed forward a full body-length, and stopped, and sneezed. ⟨I am the correct length for this. The snow is wrong.⟩
 
 "You're up to your ears."
 
-*My ears are long. It's a design feature.*
+⟨My ears are long. It's a design feature.⟩
 
 He ploughed on. Behind him he heard her get up, and he heard that she walked easier with nothing in her arms, and he lowered his head and ploughed, a small red plough with a white tip on its tail, breaking a trench for a girl who did not need one. He did it for nearly a li before his back began to talk to him in the voice it had used nine hundred years ago, the year it broke, and he stopped and stood very still in the trench with his legs braced, waiting for it to decide.
 
 Ling Mei picked him up without a word and put him back inside her coat.
 
-*I was resting,* he said.
+⟨I was resting,⟩ he said.
 
 "I know."
 
-*Precious cargo,* he added, after a while, into the warm wool.
+⟨Precious cargo,⟩ he added, after a while, into the warm wool.
 
 "I know," she said again, and he felt her chin come down on top of his head and stay there.
 
@@ -72,17 +72,17 @@ He told it plainly. The bank, the gust, the brown water, the half li of being ro
 
 "And you never told anyone."
 
-*Not one soul.*
+⟨Not one soul.⟩
 
 "Then how..." She stopped. He felt her think it through, the way she thought through everything, slowly and all the way to the end. "It's not the inspector, is it. It's something that sounds like him. And it knows about the hat because it has the river. Your river smell. The bit the stone took." She swallowed. "It's wearing your memory like a coat."
 
 Romeo said nothing for twenty steps.
 
-*Bao thinks it has no name of its own,* he said at last. *A pot with no hole in the middle. So it borrows. The inspector's voice. Shen's way of saying my name. My river.* He put his nose deeper into her collar. *And every borrowed thing it holds, it holds the way a man holds a bone over a dog's head.*
+⟨Bao thinks it has no name of its own,⟩ he said at last. ⟨A pot with no hole in the middle. So it borrows. The inspector's voice. Shen's way of saying my name. My river.⟩ He put his nose deeper into her collar. ⟨And every borrowed thing it holds, it holds the way a man holds a bone over a dog's head.⟩
 
 "To make you jump."
 
-*To make me go in,* said Romeo. *I always went in. It knows that too, now.*
+⟨To make me go in,⟩ said Romeo. ⟨I always went in. It knows that too, now.⟩
 
 ---
 
@@ -158,7 +158,7 @@ Relief.
 
 The mask turned back to the gate. Neither Romeo nor Ling Mei breathed properly until the huts were between them and the stone.
 
-*He went up the passage today,* Romeo said. *Into the dark, where that thing was. And he came down and stood his watch.* He was quiet a moment. *And he is glad I didn't come.*
+⟨He went up the passage today,⟩ Romeo said. ⟨Into the dark, where that thing was. And he came down and stood his watch.⟩ He was quiet a moment. ⟨And he is glad I didn't come.⟩
 
 ---
 
@@ -172,4 +172,4 @@ Romeo put his nose to the crack. Earth. His own scent. Old wool. And over them, 
 
 Something moved in the dark below, and a narrow, whiskered face came up between the boards, and two bright black eyes regarded him.
 
-*About time,* said Smoke. *He's been down there all day. Your back tunnel is very nice, by the way. The new one's nicer.* The stoat's nose twitched. *He says to tell you he knows what the stone is. He says he's known for a month. And he says if you're going back to the lake before the moon goes, you'd better hear the rest first.*
+⟨About time,⟩ said Smoke. ⟨He's been down there all day. Your back tunnel is very nice, by the way. The new one's nicer.⟩ The stoat's nose twitched. ⟨He says to tell you he knows what the stone is. He says he's known for a month. And he says if you're going back to the lake before the moon goes, you'd better hear the rest first.⟩

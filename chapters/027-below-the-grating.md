@@ -2,19 +2,19 @@
 
 She did not come to the reeds. She was not a fool. She drew her bucket up hand over hand, poured it into the second, and walked back along the lane with both of them sloshing, and as she passed the ditch she said to the air, quite pleasantly, "You heard all that."
 
-*I have very good ears.*
+⟨I have very good ears.⟩
 
 "I know. They're very long." She set the buckets down at the water butt behind the kitchens, tipped them in, and stood for a moment with her hands on the small of her back, which was where Romeo's back hurt too. "He said alone."
 
-*He did.*
+⟨He did.⟩
 
 "You're not going."
 
-*I am going,* Romeo said, *but not yet. First you are going to draw twenty-one more buckets, and I am going to tell you what was in the den. Then we will argue. Then I will go.*
+⟨I am going,⟩ Romeo said, ⟨but not yet. First you are going to draw twenty-one more buckets, and I am going to tell you what was in the den. Then we will argue. Then I will go.⟩
 
 "That's not an argument. That's a schedule."
 
-*At my age they are the same thing.*
+⟨At my age they are the same thing.⟩
 
 ---
 
@@ -24,15 +24,15 @@ He told her about the "Sit."
 
 She stopped in the lane with a full bucket in each hand. "It made you sit?"
 
-*It nearly did.* He was quiet a moment. *My first master laughed when he told me to sit. A small laugh, at the end. Every time, for years. He thought it was funny, giving orders to a dog. As if I was going to take them.*
+⟨It nearly did.⟩ He was quiet a moment. ⟨My first master laughed when he told me to sit. A small laugh, at the end. Every time, for years. He thought it was funny, giving orders to a dog. As if I was going to take them.⟩
 
 "And this one didn't."
 
-*No. I have heard one other voice say it without the laugh.* He did not say where. There would be a fire and a sausage one day, and that story would need both. *Keep walking. Your arms will set.*
+⟨No. I have heard one other voice say it without the laugh.⟩ He did not say where. There would be a fire and a sausage one day, and that story would need both. ⟨Keep walking. Your arms will set.⟩
 
 She walked. Water slopped onto the snow and froze there in little glassy tongues. "And then it used your voice," she said. "You sound very sure of yourself. Out loud."
 
-*I am very sure of myself.*
+⟨I am very sure of myself.⟩
 
 "I know. It was a good imitation. I nearly laughed." She tipped the buckets, and was quiet all the way back to the well.
 
@@ -46,11 +46,11 @@ His back made a remark that was not private at all.
 
 "Let go," said Ling Mei.
 
-*I am helping.*
+⟨I am helping.⟩
 
 "You're hanging off it. I'm lifting a bucket and a sausage."
 
-*I am stabilising the line.*
+⟨I am stabilising the line.⟩
 
 "Romeo." She did not say it the river way. She said it the way she said it, flat and fond, Azure Wolf vowels. "Go and lie in your hole."
 
@@ -70,19 +70,19 @@ In the afternoon, between buckets, they argued.
 
 "He's one of the men who guards the stone," Ling Mei said. "He takes their names. You said so. He puts them on that pin."
 
-*I did say so.*
+⟨I did say so.⟩
 
 "And now he wants you in a drain. Alone. At night. With your back."
 
-*Yes.*
+⟨Yes.⟩
 
 "Romeo, that is what a trap looks like. That is the picture they would paint in a book, if they were teaching children about traps."
 
-*I smelled him at the well,* said Romeo. *Traps smell of patience, and of being pleased with yourself. He smelled of nothing but fear. And he said "the door." Something knocked for him too, in somebody's voice, and he didn't open.*
+⟨I smelled him at the well,⟩ said Romeo. ⟨Traps smell of patience, and of being pleased with yourself. He smelled of nothing but fear. And he said "the door." Something knocked for him too, in somebody's voice, and he didn't open.⟩
 
 "Then what does he want?"
 
-*I don't know. That's why I'm going.* And then, because she had sat on a board all night with a hand underneath her, and it seemed to him she had earned something more than a schedule, he told her about coat names.
+⟨I don't know. That's why I'm going.⟩ And then, because she had sat on a board all night with a hand underneath her, and it seemed to him she had earned something more than a schedule, he told her about coat names.
 
 He told her how the stone bit: not flesh, not qi, but the name a beast answered to, said over it while it touched the silver. He told her about Smoke, and the other name under Smoke's coat, never spoken. How a name that has never been said aloud cannot be bitten, because there is nothing for the teeth to catch on.
 
@@ -92,11 +92,11 @@ She put the bucket down.
 
 He could have lied. She did not have the nose to catch him.
 
-*Yes,* he said.
+⟨Yes,⟩ he said.
 
 She was quiet. Then she picked up the bucket again, and her face did something complicated and settled on stern. "Don't tell me it."
 
-*I wasn't going to.*
+⟨I wasn't going to.⟩
 
 "Good. Don't ever. Not if I ask. Not if *you* ask, out loud, from under the floor." She hefted the bucket and walked on and said, over her shoulder, "I'm going to think about whether I'd like one."
 
@@ -124,15 +124,15 @@ In the hut she sat on the third floorboard again, with her blanket and the cold 
 
 "If you don't come back—"
 
-*I will come back.*
+⟨I will come back.⟩
 
 "You keep saying things like that as though you know."
 
-He did know, after a fashion, in a way that would take a fire and a sausage. *I come back,* he said. *Sometimes it takes a week.*
+He did know, after a fashion, in a way that would take a fire and a sausage. ⟨I come back,⟩ he said. ⟨Sometimes it takes a week.⟩
 
 "That isn't funny."
 
-*No,* he agreed, and went.
+⟨No,⟩ he agreed, and went.
 
 ---
 
@@ -192,8 +192,8 @@ Something enormous had lowered its head to the bars. Cold came down through them
 
 Brow did not look at the man. He looked only at Romeo, and when he spoke it was in his rusty-gate voice, into Romeo's head alone, so quietly that it was barely more than the smell of snow.
 
-*Small dog,* said Brow. *He is telling you the truth about the hat.*
+⟨Small dog,⟩ said Brow. ⟨He is telling you the truth about the hat.⟩
 
 A pause, long and wintry.
 
-*He is lying to you about the door.*
+⟨He is lying to you about the door.⟩

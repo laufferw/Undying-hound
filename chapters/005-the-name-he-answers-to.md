@@ -4,9 +4,9 @@ The Beast Hall by daylight was a different animal from the Beast Hall by night. 
 
 Ling Mei walked through it with her chin up and her arms crossed over the front of her robe, and Romeo, riding against her ribs, could feel her heart going like a rabbit's.
 
-*Slower,* he told her. *Breathe out first. You are a disciple bringing her dog to be registered. You are bored. You would rather be eating.*
+⟨Slower,⟩ he told her. ⟨Breathe out first. You are a disciple bringing her dog to be registered. You are bored. You would rather be eating.⟩
 
-*I would rather be eating,* she thought back, very clearly, and her heart slowed by a beat or two.
+⟨I would rather be eating,⟩ she thought back, very clearly, and her heart slowed by a beat or two.
 
 The bitterroot sat on his tongue like a wet leaf on a cold step. His qi lay under it, dull and still, and his mind-voice came out a little thick, as though he were speaking through a mouthful of rice. A dog who could not feel his own qi could not show it to anyone else.
 
@@ -62,7 +62,7 @@ The name he had given himself, the morning of the peach, was the first thing he 
 
 The other one had been said ten thousand times. At dawn, crossly, when he would not come out from under the blanket. At noon, on the mountain paths, when he had run too far ahead after a hare. At dusk, over a pot of thin millet, with a crust held out. In the last winter, very softly, from a straw bed, over and over, as though the old man were checking he was still there.
 
-*Ling Mei,* he said. *When I am on the stone, call me. Use the name I told you. Do not stop until I tell you.*
+⟨Ling Mei,⟩ he said. ⟨When I am on the stone, call me. Use the name I told you. Do not stop until I tell you.⟩
 
 She did not ask why. She bent and lifted him, one hand under his chest and one under his long back where it was weakest, the way he had shown her, and set him on top of the stone.
 
@@ -115,7 +115,7 @@ He looked at it for a long time. Then he took a square of clean cloth from the w
 
 "Again," he said.
 
-*Again,* Romeo told Ling Mei, before she could look at him. *Same as before. Call me.*
+⟨Again,⟩ Romeo told Ling Mei, before she could look at him. ⟨Same as before. Call me.⟩
 
 She set him back on the stone. Her hands were shaking now, and not from fear. He smelled the tide in her arms, the hot, crowded pressure of a river pressing on its old banks, harder in the cold room. It did not show in her voice.
 
@@ -149,11 +149,11 @@ They went out the way they had come, through the cedar room, past the counter an
 
 "Was that good?" she whispered. "Tell me that was good."
 
-*It was not bad,* said Romeo. *He has a name for his ledger and no proof for his suspicions. He will come again, but he will have to come with something better than a rock.*
+⟨It was not bad,⟩ said Romeo. ⟨He has a name for his ledger and no proof for his suspicions. He will come again, but he will have to come with something better than a rock.⟩
 
 "You sneezed on an Elder."
 
-*I am a dog,* said Romeo, with dignity. *Dogs sneeze.*
+⟨I am a dog,⟩ said Romeo, with dignity. ⟨Dogs sneeze.⟩
 
 She laughed, a cracked, frightened, helpless laugh, and pressed her face into the top of his head, and he let her. Her wrists ached against him. He could smell it. Tonight would be rough water again.
 
@@ -163,12 +163,12 @@ The great blue-white wolf had come out onto the terrace. He stood at the top of 
 
 A voice came into Romeo's head. It was deep and slow and very quiet, the voice of something that had not been permitted to use it in years, and it sounded rusty, as a gate sounds rusty.
 
-*Small dog,* said Brow. *The stone began to say a second name. I heard the start of it.*
+⟨Small dog,⟩ said Brow. ⟨The stone began to say a second name. I heard the start of it.⟩
 
 Romeo went very still against Ling Mei's chest.
 
-*He did not hear it,* said Brow. *His ears are only a man's.* The pale eyes held his across the yard. *But I am bound, and if he thinks to ask me, I will have to tell him.*
+⟨He did not hear it,⟩ said Brow. ⟨His ears are only a man's.⟩ The pale eyes held his across the yard. ⟨But I am bound, and if he thinks to ask me, I will have to tell him.⟩
 
 A pause, long as a breath held under water.
 
-*He has not asked me yet.*
+⟨He has not asked me yet.⟩

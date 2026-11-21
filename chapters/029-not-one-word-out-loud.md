@@ -18,11 +18,11 @@ Ling Mei's hands stopped on her sash.
 
 "You said yes," she whispered. "To a trap."
 
-*To a map,* said Romeo. *A trap you know about is a map with teeth. It tells me where the thing will be standing on the one night I most want to know.*
+⟨To a map,⟩ said Romeo. ⟨A trap you know about is a map with teeth. It tells me where the thing will be standing on the one night I most want to know.⟩
 
 "That isn't how maps work."
 
-*It is how mine work.*
+⟨It is how mine work.⟩
 
 He could smell her deciding not to argue with him in front of a steward, and filing the argument away somewhere safe, for later, the way he buried things.
 
@@ -32,7 +32,7 @@ He could not climb. They both knew it. His back had spent the morning making pri
 
 So he went out the back way instead, forty level paces of tunnel on his belly to the ditch reeds, and when he put his head out into the snow she was already crouched there waiting, having told the steward she had dropped something. She got her good right hand under his chest and her crooked left arm under his long red middle, and lifted him out of the reeds like a bucket out of a well.
 
-*I am not luggage,* said Romeo, dangling.
+⟨I am not luggage,⟩ said Romeo, dangling.
 
 "You are today," said Ling Mei, and tucked him into the front of her padded coat.
 
@@ -173,15 +173,15 @@ She carried him down the stair with her heart going like a rabbit's, and neither
 
 Then, so low that only a dog's long ears would have caught it: "I didn't lie."
 
-*No,* said Romeo. *You were magnificent. You were also very nearly sick on an elder's mat. I'm sorry. That was my qi. I'll take it back tonight.*
+⟨No,⟩ said Romeo. ⟨You were magnificent. You were also very nearly sick on an elder's mat. I'm sorry. That was my qi. I'll take it back tonight.⟩
 
 "It's warm," she whispered. "It's still going round. It feels like swallowing soup the wrong way." A pause. "He saw it."
 
-*He saw your tide move.* Romeo laid his chin on her collarbone. *He thinks it was buckets.*
+⟨He saw your tide move.⟩ Romeo laid his chin on her collarbone. ⟨He thinks it was buckets.⟩
 
 "He does not think it was buckets."
 
-*No,* Romeo admitted. *He doesn't.*
+⟨No,⟩ Romeo admitted. ⟨He doesn't.⟩
 
 **\[Ling Mei — Ebbtide Vessel: meridian correction 7% → 8%.\]**
 
@@ -189,16 +189,16 @@ He read it twice. Then he did not tell her, because she would have asked how, an
 
 Behind them, faintly, as they reached the huts, a voice came after him down the hill. Not up a leash. Not to Fang. Mind to mind, only to the small dog, like snow sliding off a roof.
 
-*Small dog.*
+⟨Small dog.⟩
 
-Romeo did not turn his head. *Brow.*
+Romeo did not turn his head. ⟨Brow.⟩
 
-*He did not tell her all of it.* The wolf's voice was very even, the way a voice is even when it is carrying something heavy. *The thing at the window said one more word. He thinks it was nonsense. An old word for snow, in a tongue no one in this sect has spoken for five hundred years.*
+⟨He did not tell her all of it.⟩ The wolf's voice was very even, the way a voice is even when it is carrying something heavy. ⟨The thing at the window said one more word. He thinks it was nonsense. An old word for snow, in a tongue no one in this sect has spoken for five hundred years.⟩
 
 Romeo's tail went still against Ling Mei's ribs.
 
-*It was not nonsense,* said Brow. *It was my name. The one under the coat. The one I have never said aloud to anyone.*
+⟨It was not nonsense,⟩ said Brow. ⟨It was my name. The one under the coat. The one I have never said aloud to anyone.⟩
 
 A pause, long and cold.
 
-*And it said it in my mother's voice.*
+⟨And it said it in my mother's voice.⟩

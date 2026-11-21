@@ -4,7 +4,7 @@ For the space of one breath, nobody in the hut moved.
 
 Ling Mei sat on the sleeping platform with a wet dachshund wrapped in a blanket on her lap and her face gone the colour of rice paper. The candle stood on the floor. The empty bowl stood beside it, licked clean. And between the bowl and the door, as plain as a mouth open in the middle of the floor, was the square black hole where the third floorboard should have been, breathing up a smell of bitterroot and cold earth and river.
 
-*The board,* Romeo said into her mind. *Quietly. With your foot.*
+⟨The board,⟩ Romeo said into her mind. ⟨Quietly. With your foot.⟩
 
 She did not ask how. She put him down on the blanket, slid off the platform, hooked the floorboard with her toes where it lay against the wall and dragged it back across the hole. It dropped into place with a soft wooden clap. She pressed it down with her heel. It sat a little proud of its neighbours, the way it always did, because a dog had once chewed the edge.
 
@@ -12,11 +12,11 @@ She did not ask how. She put him down on the blanket, slid off the platform, hoo
 
 "Coming, Elder. I'm not dressed. One moment."
 
-It was a good lie. Romeo could smell it from where he lay, and it smelled almost exactly like the truth, because her robe was half off one shoulder from wrestling him out of the shaft. *Listen to me,* he told her, fast. *Don't hide that I'm wet. Don't hide that I'm hurt. He'll smell both through the door. Hide the hole. Everything else, tell him the truth about a stupid dog.*
+It was a good lie. Romeo could smell it from where he lay, and it smelled almost exactly like the truth, because her robe was half off one shoulder from wrestling him out of the shaft. ⟨Listen to me,⟩ he told her, fast. ⟨Don't hide that I'm wet. Don't hide that I'm hurt. He'll smell both through the door. Hide the hole. Everything else, tell him the truth about a stupid dog.⟩
 
-*What truth?* she thought back.
+⟨What truth?⟩ she thought back.
 
-*That I ran off and you found me in the drain.*
+⟨That I ran off and you found me in the drain.⟩
 
 She looked at him. She smoothed her robe. She opened the door.
 
@@ -44,7 +44,7 @@ Fang Wuji crouched. He did it without hurry and without a sound, the way very st
 
 "He's very stupid," said Ling Mei, with feeling.
 
-*Thank you,* said Romeo.
+⟨Thank you,⟩ said Romeo.
 
 ---
 
@@ -90,7 +90,7 @@ Romeo looked up into the pale eyes and did not speak into the wolf's mind. He di
 
 Brow breathed out. Snorted, once, softly, so that the candle flame bent. Lifted his head away. Turned, as much as a wolf wedged in a doorway can turn, and lay down across the threshold with his chin on his paws and his back to the dog, a picture of complete boredom.
 
-And Romeo, whose nose was fragmented and half-blind and still the best nose on nine tiers of mountain, smelled something go up the binding between wolf and master. It was very faint. It was the smell a thing makes when it is said through a leash instead of a mouth. It said, as plainly as words: *Dog. Only a dog. Smells of the kennels.*
+And Romeo, whose nose was fragmented and half-blind and still the best nose on nine tiers of mountain, smelled something go up the binding between wolf and master. It was very faint. It was the smell a thing makes when it is said through a leash instead of a mouth. It said, as plainly as words: ⟨Dog. Only a dog. Smells of the kennels.⟩
 
 It was a lie.
 
@@ -131,11 +131,11 @@ Ling Mei stood with her back against the door for a long time. Then she came and
 
 "You said you'd explain," she said.
 
-*I will,* said Romeo into her mind, and thumped his tail once against her knee because he was too tired to do anything else. *All of it. The lake. The turtle. The thing with the lamp. Why I'm wearing this.* He put his chin on her wrist. *But not tonight, because that wolf just lied to his master for me, and I don't know why, and the elder says I'm a dog and smells as if he hopes he's wrong, and none of that is the bad part.*
+⟨I will,⟩ said Romeo into her mind, and thumped his tail once against her knee because he was too tired to do anything else. ⟨All of it. The lake. The turtle. The thing with the lamp. Why I'm wearing this.⟩ He put his chin on her wrist. ⟨But not tonight, because that wolf just lied to his master for me, and I don't know why, and the elder says I'm a dog and smells as if he hopes he's wrong, and none of that is the bad part.⟩
 
 "What's the bad part?"
 
-*The stranger in the mountain was walking its pins tonight,* said Romeo. *Checking its knots. Getting ready. And now the collector is a day early.*
+⟨The stranger in the mountain was walking its pins tonight,⟩ said Romeo. ⟨Checking its knots. Getting ready. And now the collector is a day early.⟩
 
 She was quiet. The candle had burned down to a thumb's width. Outside, very far off, high on the mountain, so faint that only a nose like his would have caught it on the wind, there was a smell of lamp smoke, going up.
 

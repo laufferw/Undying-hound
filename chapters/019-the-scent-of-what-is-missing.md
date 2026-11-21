@@ -38,9 +38,9 @@ The drain was where the ditch met the kennel wall: a square stone mouth, half fu
 
 He came up through a grating in the floor of the end stall, which had been propped open with a horse's shinbone, and found himself nose to nose with the stoat.
 
-*You're late,* said Smoke.
+⟨You're late,⟩ said Smoke.
 
-*I am exactly on time,* said Romeo, dripping. *The hour of the rat is long. Like me.*
+⟨I am exactly on time,⟩ said Romeo, dripping. ⟨The hour of the rat is long. Like me.⟩
 
 Smoke's whiskers did something that might have been a stoat's opinion of jokes. Then it turned and flowed away over the straw, and Romeo, after one hard shake that sent drain water up the stall walls, followed.
 
@@ -68,7 +68,7 @@ Nothing. Not a single name. Not a ghost of one. The stone, from a hand's width a
 
 *It doesn't keep them,* Romeo thought slowly. *It's a mouth. Not a belly.*
 
-*That's what he thinks,* said Smoke from the straw. *He has thought it for a month. He had no way to know where it swallows to.* The bright eyes turned to Romeo. *He hoped you might.*
+⟨That's what he thinks,⟩ said Smoke from the straw. ⟨He has thought it for a month. He had no way to know where it swallows to.⟩ The bright eyes turned to Romeo. ⟨He hoped you might.⟩
 
 ---
 
@@ -95,9 +95,9 @@ It leaned uphill too.
 **\["The Scent of What Is Missing." An absence can be followed as a trace.\]**  
 **\[Range: limited. Clarity: poor. Your nose remembers more than your meridians allow.\]**
 
-*The pins,* Romeo said. He did not realise he had said it into the stoat's head until Smoke flinched. *The names don't stay in the stone. They go into the ground and run along the seam to the pins. The same pins that hold Bao.*
+⟨The pins,⟩ Romeo said. He did not realise he had said it into the stoat's head until Smoke flinched. ⟨The names don't stay in the stone. They go into the ground and run along the seam to the pins. The same pins that hold Bao.⟩
 
-*Pins?* said Smoke. *Who is Bao?*
+⟨Pins?⟩ said Smoke. ⟨Who is Bao?⟩
 
 Romeo did not answer. He was thinking of a ten-thousand-year-old turtle sitting alone under a lake with twenty-four silver threads in him, and of the new moon, six nights off, when a sweatless thing would come to tie the threads again. And he was wondering, for the first time, what it was that the threads were tied *with*.
 

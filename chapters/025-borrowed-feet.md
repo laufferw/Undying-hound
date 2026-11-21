@@ -14,17 +14,17 @@ It carried a hole.
 
 Romeo knew the shape of it now. He had followed it through the dry passage. He had lain in the ice of the lake slot while it went past above him. It was the place in the world where a smell ought to be and was not, and his nose, which had learned in the last days to lean toward missing things, leaned toward it now the way a compass needle leans north.
 
-*Ling Mei,* he said, very softly, into the place behind her eyes. *Wake up. Don't move.*
+⟨Ling Mei,⟩ he said, very softly, into the place behind her eyes. ⟨Wake up. Don't move.⟩
 
 He heard her breath catch. The charcoal bowl gave a small tick as it cooled. The cord around her wrist went taut and then, carefully, slack again, which told him she had understood both halves of the instruction.
 
 "Someone knocked," she whispered. She could not speak to him the way he spoke to her, but she had learned to whisper down the shaft as if he were a man standing at the bottom of a well.
 
-*Yes.*
+⟨Yes.⟩
 
 "Is it..." She did not finish. He could smell what she was not saying. *Is it Bao. Is it someone safe.*
 
-*No. Whatever is out there has no smell.*
+⟨No. Whatever is out there has no smell.⟩
 
 She went so still that he could hear her heart through the floorboards.
 
@@ -32,23 +32,23 @@ Three knocks. A pause. Two.
 
 Then nothing. No voice. No scrape of a boot. Only the draught, and the hole in it, patient as a held breath.
 
-*Don't answer,* said Romeo. *Whatever it says. If it says your name, don't answer. If it says mine, don't answer. If it uses the voice of someone you love, especially don't answer.*
+⟨Don't answer,⟩ said Romeo. ⟨Whatever it says. If it says your name, don't answer. If it says mine, don't answer. If it uses the voice of someone you love, especially don't answer.⟩
 
 "It hasn't said anything," Ling Mei breathed.
 
-*Then it is waiting to see what we do.*
+⟨Then it is waiting to see what we do.⟩
 
 ---
 
 There were two ways out of the den. One was up the shaft and through the hut and through the door, which was the way any reasonable creature would go to see who was knocking, and which was therefore out of the question. The other was the back-door tunnel.
 
-*Untie the cord,* he told her. *Keep the end. Leave the harness on me.*
+⟨Untie the cord,⟩ he told her. ⟨Keep the end. Leave the harness on me.⟩
 
 She did not argue, which was how he knew she was truly afraid. He heard her fingers work at the knot, felt the small tug and release at his ribs, and the long hemp cord came slithering up the shaft and was gone.
 
 "Where are you going?" she whispered.
 
-*Under,* said Romeo. *Where it doesn't expect a dog to be.*
+⟨Under,⟩ said Romeo. ⟨Where it doesn't expect a dog to be.⟩
 
 He got out of the trough the way old men get out of baths, front end first and the rest following under protest. His back did not like it. His back made a long, cold, private remark about it that started between his shoulders and ended somewhere near his tail. He waited for the remark to finish. Then he put his nose into the mouth of the back-door tunnel and went in.
 
@@ -153,7 +153,7 @@ And Romeo, lying in the snow with every hair on end, realised two things at once
 
 The second was that he had heard that rhythm before. Not only in the dry passage. Long before that. Tap, and a pause, and tap: an old man's digging stick on a hill path, the right knee slow to follow. He had heard it every morning of his first life.
 
-*Ling Mei,* he said, and his inner voice did not sound old at all. *Put the board back. Sit on it. Now.*
+⟨Ling Mei,⟩ he said, and his inner voice did not sound old at all. ⟨Put the board back. Sit on it. Now.⟩
 
 Above him he heard the third floorboard scrape and drop into place.
 

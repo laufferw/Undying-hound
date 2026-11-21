@@ -4,27 +4,27 @@ Ling Mei read the bamboo slip three times, as though the words might rearrange t
 
 "Hour of the snake tomorrow," she said. "That's a day and a half."
 
-*A day and a morning,* Romeo said from under the sleeping platform. *Do not round up. Rounding up is how cultivators die.*
+⟨A day and a morning,⟩ Romeo said from under the sleeping platform. ⟨Do not round up. Rounding up is how cultivators die.⟩
 
 "What happens at an assessment?"
 
-*That depends on the elder. In my experience, a beast is set on a measuring stone, and the stone tells the elder whether the beast has qi, how much, and of what kind. An ordinary dog makes the stone sulk. An awakened beast makes it light up like a lantern festival.*
+⟨That depends on the elder. In my experience, a beast is set on a measuring stone, and the stone tells the elder whether the beast has qi, how much, and of what kind. An ordinary dog makes the stone sulk. An awakened beast makes it light up like a lantern festival.⟩
 
 "And you'd light up."
 
-*I would flicker,* Romeo said, with some bitterness. *At first level, I am a very small lantern. But a flicker is enough to get a dog put in a cage.*
+⟨I would flicker,⟩ Romeo said, with some bitterness. ⟨At first level, I am a very small lantern. But a flicker is enough to get a dog put in a cage.⟩
 
 Outside, the morning bell rang over the training grounds, three slow strokes. Ling Mei flinched at it, and he smelled why: four years of being late meant four years of punishments, and her body remembered every one.
 
-*Go,* he said. *Chant your Azure Wolf Breathing with the others. Move your lips, but do not do the breathing. Your channels have turned one percent toward the sea, and if you force them back to the pond in front of a hundred disciples, you will be sick on somebody's shoes.*
+⟨Go,⟩ he said. ⟨Chant your Azure Wolf Breathing with the others. Move your lips, but do not do the breathing. Your channels have turned one percent toward the sea, and if you force them back to the pond in front of a hundred disciples, you will be sick on somebody's shoes.⟩
 
 "Whose shoes?"
 
-*Choose wisely. And on your way back, steal me some bitterroot.*
+⟨Choose wisely. And on your way back, steal me some bitterroot.⟩
 
 She paused at the door. "Steal?"
 
-*Borrow without asking from an herb garden that will not notice. The green kind, with the purple stalk. I will explain later.*
+⟨Borrow without asking from an herb garden that will not notice. The green kind, with the purple stalk. I will explain later.⟩
 
 She went. Romeo listened to her footsteps squelch up the ditch until they were gone, then turned to the floorboards, and every one of his ancestors sat up inside him and said: *Finally.*
 
@@ -76,35 +76,35 @@ Ling Mei came back in the middle of the afternoon, grey in the face, holding a b
 
 "You've dug up my house."
 
-*I have improved your house. It now has a cellar.*
+⟨I have improved your house. It now has a cellar.⟩
 
 "It now has a *pit*."
 
-*A pit with two exits. Also, I am second level. You may congratulate me.*
+⟨A pit with two exits. Also, I am second level. You may congratulate me.⟩
 
 She sat down heavily on the edge of the platform instead, and the smell of her reached him properly: sour stomach, aching wrists, a hot, crowded pressure along the channels of her arms like a river blocked at a bridge. She had not done the sect breathing. He could tell. But she had stood in the cold for two hours among a hundred people doing it, and her body, after four years, had tried to follow them on its own.
 
 "It hurt," she said. "Not much. Like my hands were full and couldn't let go. I was sick behind the bell tower."
 
-*Not on anyone's shoes?*
+⟨Not on anyone's shoes?⟩
 
 "Not on anyone's shoes." A faint smile. "I thought about Zhao Peng's."
 
-*He was not there?*
+⟨He was not there?⟩
 
 "Confined to quarters for the pill. His friends were, though. They kept barking at me." She rubbed her wrists. "Is it going to be like this every day?"
 
-*Worse, for a while,* Romeo said, because she was a person who would rather be told the truth. *Then better, all at once. The tide is turning. Turning tides are rough water.*
+⟨Worse, for a while,⟩ Romeo said, because she was a person who would rather be told the truth. ⟨Then better, all at once. The tide is turning. Turning tides are rough water.⟩
 
 She nodded slowly. Then she held out the bitterroot. "So what's this for?"
 
 Romeo took a stalk in his teeth and chewed. It was exactly as foul as he remembered, a green, numbing bitterness that crawled across his tongue and down his throat and into his channels, where the qi he had gathered all day stopped moving and lay still, sluggish, like fish under ice.
 
-*My first master used this for toothache,* he said, his mind-voice slightly thick. *He would chew it and spit it on a cloth and hold it to his jaw. When I was very young, just awakened, I ate some off his cloth because I eat everything. For half a day afterward I could not feel my own qi at all. Neither could anything else.*
+⟨My first master used this for toothache,⟩ he said, his mind-voice slightly thick. ⟨He would chew it and spit it on a cloth and hold it to his jaw. When I was very young, just awakened, I ate some off his cloth because I eat everything. For half a day afterward I could not feel my own qi at all. Neither could anything else.⟩
 
 Ling Mei's eyes widened. "So tomorrow, you chew this, and the stone sees an ordinary dog."
 
-*So tomorrow, I chew this, and the stone sees an ordinary dog,* Romeo agreed, *who is also very slightly drunk. It will have to do. But first I want to see the stone.*
+⟨So tomorrow, I chew this, and the stone sees an ordinary dog,⟩ Romeo agreed, ⟨who is also very slightly drunk. It will have to do. But first I want to see the stone.⟩
 
 ---
 
@@ -122,25 +122,25 @@ There were twenty of them, perhaps more, in pens along both sides of a long ston
 
 A bound beast did not growl unless it was told to.
 
-*You smell like a hole in the ground,* said a voice in his head.
+⟨You smell like a hole in the ground,⟩ said a voice in his head.
 
 It came from the last pen on the left. The wolf in it was older than the others, grey gone almost white at the muzzle, one ear torn. His collar had worn a bald ring in the fur of his neck.
 
-*I live in one,* Romeo said. *It is very comfortable. You speak.*
+⟨I live in one,⟩ Romeo said. ⟨It is very comfortable. You speak.⟩
 
-*All of us can, a little. They prefer we don't.* The old wolf's eyes moved over him, the small body, the short legs, the dirt. *You're the girl's dog. The one that stole the pill.*
+⟨All of us can, a little. They prefer we don't.⟩ The old wolf's eyes moved over him, the small body, the short legs, the dirt. ⟨You're the girl's dog. The one that stole the pill.⟩
 
-*I returned the pill to its rightful owner,* said Romeo. *In a manner of speaking. What is your name?*
+⟨I returned the pill to its rightful owner,⟩ said Romeo. ⟨In a manner of speaking. What is your name?⟩
 
-A long pause. *The kennel-book says Grey Nine. Before that I had another, but it was a long time ago.*
+A long pause. ⟨The kennel-book says Grey Nine. Before that I had another, but it was a long time ago.⟩
 
-*Then I will call you Grey for now, and you may tell me the other when you like.* Romeo looked down the hall to where it opened into a larger chamber lit by a single lamp. *I came to see the stone.*
+⟨Then I will call you Grey for now, and you may tell me the other when you like.⟩ Romeo looked down the hall to where it opened into a larger chamber lit by a single lamp. ⟨I came to see the stone.⟩
 
-Grey was silent for a moment. Then: *Don't touch it.*
+Grey was silent for a moment. Then: ⟨Don't touch it.⟩
 
-*I have no intention of touching it.*
+⟨I have no intention of touching it.⟩
 
-*It's not one of ours,* the old wolf said. *The sect's old stone was cracked. That one came a month ago. The Elder brought it back from the third tier, wrapped in cloth, and he doesn't let the stewards handle it. Two weeks ago a fox was brought in, a wild one, found in the bamboo. It had awakened on its own. No master.* The yellow eyes held his. *It touched the stone. The stone said its name out loud. Its true name, the one it gave itself. And the Elder wrote the name down on a slip, and sealed the slip, and sent it up the mountain with a runner. The next morning the fox was gone and its pen smelled of nothing at all. Not even fox.*
+⟨It's not one of ours,⟩ the old wolf said. ⟨The sect's old stone was cracked. That one came a month ago. The Elder brought it back from the third tier, wrapped in cloth, and he doesn't let the stewards handle it. Two weeks ago a fox was brought in, a wild one, found in the bamboo. It had awakened on its own. No master.⟩ The yellow eyes held his. ⟨It touched the stone. The stone said its name out loud. Its true name, the one it gave itself. And the Elder wrote the name down on a slip, and sealed the slip, and sent it up the mountain with a runner. The next morning the fox was gone and its pen smelled of nothing at all. Not even fox.⟩
 
 Romeo did not answer. He walked, very softly, down the length of the hall, keeping to the shadow under the pens, and into the lamplit chamber.
 
@@ -152,6 +152,6 @@ Silver.
 
 Romeo stood very still in the doorway, and every hair along his long red back rose, and for the first time since he had woken in the mud, the oldest puppy in the world was afraid.
 
-Behind him, in the dark of the kennels, the old wolf said quietly: *The Elder comes down to check on it every night, little hole-dog. You should go.*
+Behind him, in the dark of the kennels, the old wolf said quietly: ⟨The Elder comes down to check on it every night, little hole-dog. You should go.⟩
 
 Above them, on the stairs from the upper hall, a door opened.

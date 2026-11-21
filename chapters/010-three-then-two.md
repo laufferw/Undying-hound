@@ -108,23 +108,23 @@ One knock. Very slow. From very, very far down.
 
 Then a voice. Not in the water. Not in his ears. In the bone.
 
-*...Is it,* said Old Turtle Bao, and stopped, and the stop lasted the length of a long breath, *...the end of the world?*
+⟨...Is it,⟩ said Old Turtle Bao, and stopped, and the stop lasted the length of a long breath, ⟨...the end of the world?⟩
 
 Romeo found his tail was wagging. He let it.
 
-*Close enough,* he said.
+⟨Close enough,⟩ he said.
 
 Another long pause. The stone under his chin warmed very slightly, the way a stone warms when something has been lying on it, very still, for a very long time.
 
-*Romeo,* said Bao. *You're... small.*
+⟨Romeo,⟩ said Bao. ⟨You're... small.⟩
 
-*I noticed. Listen to me, old shell. Someone on the shore is—*
+⟨I noticed. Listen to me, old shell. Someone on the shore is—⟩
 
-*Tying my feet.* The words came slowly, but they came without surprise, and that was worse than anything else. *Yes. I thought it was a dream. I have been dreaming of silk since the leaves fell. A little more every new moon.* A pause, deep as the lake. *Tonight is the new moon.*
+⟨Tying my feet.⟩ The words came slowly, but they came without surprise, and that was worse than anything else. ⟨Yes. I thought it was a dream. I have been dreaming of silk since the leaves fell. A little more every new moon.⟩ A pause, deep as the lake. ⟨Tonight is the new moon.⟩
 
-*Then wake up properly and swim away.*
+⟨Then wake up properly and swim away.⟩
 
-*I can't feel my feet,* said the oldest creature Romeo had ever loved, very simply. *I haven't been able to feel my feet for some time.*
+⟨I can't feel my feet,⟩ said the oldest creature Romeo had ever loved, very simply. ⟨I haven't been able to feel my feet for some time.⟩
 
 Above them, on the shore, the quick hands stopped.
 

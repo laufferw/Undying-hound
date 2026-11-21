@@ -138,7 +138,7 @@ He had not told it to. It was wagging all on its own, thumping wetly against the
 
 Romeo sighed through his nose. Then he stepped forward, took the bun with great delicacy, and spoke for the first time in his new life, mind to mind, in a voice that was very old and very dry.
 
-*Thank you for the bun. My name is Romeo. I am three thousand one hundred and twelve years old, your meridians are not crippled, they are reversed, and I am going to fix them.*
+⟨Thank you for the bun. My name is Romeo. I am three thousand one hundred and twelve years old, your meridians are not crippled, they are reversed, and I am going to fix them.⟩
 
 Ling Mei dropped the other half of the bun.
 

@@ -8,7 +8,7 @@ Romeo looked down the shaft. It was the height of a tall man, and he had dug it 
 
 Ling Mei saw him look. She knelt, took hold of the loose hemp harness behind his shoulders, and lowered him hand over hand into the dark like a bucket into a well.
 
-*I am not luggage,* he told her, revolving gently.
+⟨I am not luggage,⟩ he told her, revolving gently.
 
 "You're twenty-four buckets," said Ling Mei. "Hold still."
 
@@ -24,13 +24,13 @@ Above them Ling Mei lit the charcoal bowl and set it on the boards at the edge o
 
 "He can't hear you," she said to Romeo. "Can he?"
 
-*No. Only you.* Romeo turned his eyes to the stoat. *And this one, who has been in my den all day with his feet on my things.*
+⟨No. Only you.⟩ Romeo turned his eyes to the stoat. ⟨And this one, who has been in my den all day with his feet on my things.⟩
 
-*I'll tell him,* said Smoke cheerfully. *I'll tell him all of it. I'll do the voices.*
+⟨I'll tell him,⟩ said Smoke cheerfully. ⟨I'll tell him all of it. I'll do the voices.⟩
 
-*Tell him only what I say.*
+⟨Tell him only what I say.⟩
 
-*Where's the fun in that.* The stoat turned his head and touched his nose to the old man's ear, and the physician's mouth twitched at the corner.
+⟨Where's the fun in that.⟩ The stoat turned his head and touched his nose to the old man's ear, and the physician's mouth twitched at the corner.
 
 "He says," the physician reported gravely, "that you are a wet sock that has been dragged through a pine tree." He paused. "I think that may be Smoke. Is it Smoke?"
 
@@ -58,7 +58,7 @@ Ling Mei had both hands over her mouth.
 
 ---
 
-*Ask him,* said Romeo to Smoke, *why he kept his mouth shut for a month.*
+⟨Ask him,⟩ said Romeo to Smoke, ⟨why he kept his mouth shut for a month.⟩
 
 Smoke asked, more or less. The physician did not seem offended.
 
@@ -68,13 +68,13 @@ Romeo's nose went through the air in the den, slowly, the way a hand goes throug
 
 No lie. Not a grain of one.
 
-*He knew,* Romeo said to Ling Mei. *Fang knew what it was, and let it into his yard, and stood beside it while his own wolves were named to it.*
+⟨He knew,⟩ Romeo said to Ling Mei. ⟨Fang knew what it was, and let it into his yard, and stood beside it while his own wolves were named to it.⟩
 
 "Then why..." Ling Mei began, and stopped, because none of them knew why.
 
 "So I have kept my stoat away from it," said the physician. "And I have watched the wolves stop dreaming. Grey Nine first. Then Iron-Jaw. And I have done nothing, because I am an old man with one eye and a stoat, and because the elder told me to." He looked at Romeo directly. "And then a dog came into my kennels who smelled of earth qi and talked to my stoat, and walked away from that stone after it had read him, still twitching in his sleep. I thought: I will tell this one. Whatever he is."
 
-*Tell him,* said Romeo, *that I am old.*
+⟨Tell him,⟩ said Romeo, ⟨that I am old.⟩
 
 Smoke told him. The physician laughed, once, a creak like the door finally opening.
 
@@ -102,7 +102,7 @@ Three thousand years ago a dog with no name had eaten a fallen peach and woken u
 
 Whole. Unbitten.
 
-*Ling Mei,* he said.
+⟨Ling Mei,⟩ he said.
 
 No answer. He looked up the shaft. She had put her head down on her knees beside the charcoal bowl and fallen asleep sitting up, with the cord still wrapped around her wrist and her mouth a little open. The red light lay along her cheek.
 
@@ -118,7 +118,7 @@ The physician listened to Smoke relay it, and went grey.
 
 "Uphill," he said. "Uphill to what?"
 
-*Tell him,* said Romeo, *that I'm going to find out.*
+⟨Tell him,⟩ said Romeo, ⟨that I'm going to find out.⟩
 
 The old man unfolded himself, joint by joint, toward the back-door tunnel; he had come in that way and would have to go out on his knees through the ditch reeds like a much younger and more foolish person. At the mouth of it he stopped.
 

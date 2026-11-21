@@ -8,7 +8,7 @@ Old rock. Third-tier rock, the high cold kind that never quite thaws. And under 
 
 *Names,* he thought. *It's full of names.*
 
-*Ling Mei,* he said into her mind. *Whatever happens, don't put me down near that thing until they make you.*
+⟨Ling Mei,⟩ he said into her mind. ⟨Whatever happens, don't put me down near that thing until they make you.⟩
 
 "I wasn't planning to put you down anywhere," she murmured, without moving her lips, which she had learned to do in about two days and which still impressed him.
 
@@ -60,11 +60,11 @@ His back legs bunched inside the blanket. His ears came up. A sound began in the
 
 Ling Mei's good hand closed round his muzzle, gently and absolutely. "No," she said aloud, in the voice of every exasperated dog-owner in the world, and two disciples near her snickered.
 
-*I wasn't going to,* said Romeo, with enormous dignity, through her fingers.
+⟨I wasn't going to,⟩ said Romeo, with enormous dignity, through her fingers.
 
-*You were,* she thought back.
+⟨You were,⟩ she thought back.
 
-*I was considering it in an abstract way.*
+⟨I was considering it in an abstract way.⟩
 
 The physician, at the stone, did not look round. But when the band lit for the stoat (*Smoke*, pale and brief), the old man laid two fingers flat on the grey rock for a moment, the way a man lays fingers on a sick beast's flank to feel for a fever, and took them away again, and said nothing to anyone.
 

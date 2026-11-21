@@ -10,7 +10,7 @@ Footsteps on the stairs. Slow, heavy, unhurried. A man who owned every stone he 
 
 *The drain,* Romeo thought, and measured it with his nose. Forty paces down the hall, past twenty pens, across open floor. On his old legs he could have crossed it before the footsteps reached the bottom step. On these legs he would be halfway there, wet and red and very visible, when the lamp swung round.
 
-*Not the drain,* said Grey. *Here. The gutter under my pen. Now, hole-dog.*
+⟨Not the drain,⟩ said Grey. ⟨Here. The gutter under my pen. Now, hole-dog.⟩
 
 Romeo did not argue. He slid along the base of the pens, keeping under the lip of the stone curb where the lamplight did not reach, and found what Grey meant: a shallow trench cut into the floor at the back of the last pen, carrying waste water down toward the drain. It was a hand deep and a hand and a half wide, and it smelled of everything a kennel has ever produced.
 
@@ -88,7 +88,7 @@ It was a large rat, brown and slick, and it went along the curb at a busy trot, 
 
 His back legs bunched. His jaws parted.
 
-*Don't,* said Grey, very quietly.
+⟨Don't,⟩ said Grey, very quietly.
 
 Romeo did not. It cost him more than the lightning had. The rat trotted on, unbitten and unaware, and vanished down the drain, and somewhere inside him a three-thousand-year-old cultivator and a very young dog sat side by side and sulked.
 
@@ -104,21 +104,21 @@ Fang Wuji looked at it for a long moment. Then he wrapped it in a fold of paper 
 
 Romeo came out of the trench as a wet thing comes out of a river: slowly, and then all at once, in a shake that started at his nose and travelled down the whole length of him and finished in a spray from the white tip of his tail.
 
-*You kicked your trough over on me,* he said.
+⟨You kicked your trough over on me,⟩ he said.
 
-*You're welcome,* said Grey. He had lain back down. In the dark, his torn ear was a ragged shape against the bars. *Brow would have had you. He smells better than any of us. They give him the best of everything.*
+⟨You're welcome,⟩ said Grey. He had lain back down. In the dark, his torn ear was a ragged shape against the bars. ⟨Brow would have had you. He smells better than any of us. They give him the best of everything.⟩
 
-*Including the best collar,* said Romeo.
+⟨Including the best collar,⟩ said Romeo.
 
 A long pause.
 
-*Including that.*
+⟨Including that.⟩
 
 Romeo looked up at the old wolf through the bars. He knew the smell coming off him now. He had smelled it on Ling Mei the first night, salt and tiredness, a long, long tiredness. On a wolf it smelled older.
 
-*Why help me?*
+⟨Why help me?⟩
 
-Grey closed his eyes. *The fox,* he said. *It talked to me, the one night it was here. It was very young. It kept asking when its master was coming, and I kept telling it, you don't have one, little thing, that's the trouble.* He breathed out. *Go home, hole-dog. And whatever you do tomorrow, don't let that stone hear you.*
+Grey closed his eyes. ⟨The fox,⟩ he said. ⟨It talked to me, the one night it was here. It was very young. It kept asking when its master was coming, and I kept telling it, you don't have one, little thing, that's the trouble.⟩ He breathed out. ⟨Go home, hole-dog. And whatever you do tomorrow, don't let that stone hear you.⟩
 
 ---
 
@@ -126,7 +126,7 @@ He came back up through the floor of the hut a little before midnight, filthy, h
 
 "What did you *do*?"
 
-*I hid in a sewer,* Romeo said, *under a wolf. It was an educational evening.*
+⟨I hid in a sewer,⟩ Romeo said, ⟨under a wolf. It was an educational evening.⟩
 
 She heated water on her little brazier and washed him in the bowl that caught the middle leak, and he let her, and did not complain, and she noticed that he did not complain, and her hands went gentler. While she worked he told her all of it. The stone. The fox's name. Brow. The hair.
 
@@ -134,11 +134,11 @@ When he got to the hair, she stopped scrubbing.
 
 "He knows."
 
-*He suspects. A man who suspects comes to look. A man who knows comes with a cage.* Romeo shook his ears. *He did not come with a cage.*
+⟨He suspects. A man who suspects comes to look. A man who knows comes with a cage.⟩ Romeo shook his ears. ⟨He did not come with a cage.⟩
 
 "Yet."
 
-*Yet,* he agreed.
+⟨Yet,⟩ he agreed.
 
 Afterward, because it was night and nights were for the tide, she lay down on her back and breathed, out first, all the way, and let the breath come back. He lay with his nose against her wrist and smelled the river in her arms push against its old banks. It was rougher tonight. Twice she gasped and her fingers clenched into the blanket, and once she rolled onto her side and was quietly sick into the third bowl, and then lay back down and went on breathing without being told. Romeo did not say anything. There are kinds of courage it is impolite to praise out loud.
 
@@ -146,7 +146,7 @@ Afterward, because it was night and nights were for the tide, she lay down on he
 
 "Two," she said hoarsely, with her eyes shut.
 
-*Two,* said Romeo.
+⟨Two,⟩ said Romeo.
 
 She was asleep within moments. He was not.
 

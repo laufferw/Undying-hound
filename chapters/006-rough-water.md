@@ -4,7 +4,7 @@ The bitterroot let go of him a little after the hour of the goat, the way a cold
 
 Romeo felt his qi stir. Felt the small sea he had gathered over three days turn over in its bed like a sleeper, sluggish and sour-tasting, and then settle. His mind-voice came back clean. He tested it on the nearest available listener.
 
-*That,* he told the floor of the hut, *was a very stupid plan, and it worked, and I would like it noted that I do not intend to do it again.*
+⟨That,⟩ he told the floor of the hut, ⟨was a very stupid plan, and it worked, and I would like it noted that I do not intend to do it again.⟩
 
 The floor did not answer. Ling Mei had gone to her afternoon chores, hauling water for the outer kitchens with arms that ached to the shoulder, and had left him behind with a crust, a strict instruction not to be seen, and a look that said she knew perfectly well what he would do the moment she was gone.
 
@@ -30,7 +30,7 @@ Ling Mei came home at dusk, looked at the floor, looked at the rice pot, and sai
 
 Then she said, "There is *dirt* in my *dinner*."
 
-*There is a great deal of dirt in a great many places,* Romeo agreed, emerging from the hole with his whole front half the colour of the mountain and his ears inside out. *It is the nature of improvements.*
+⟨There is a great deal of dirt in a great many places,⟩ Romeo agreed, emerging from the hole with his whole front half the colour of the mountain and his ears inside out. ⟨It is the nature of improvements.⟩
 
 ---
 
@@ -40,13 +40,13 @@ He had smelled the tide in her all day, through the floor, through the walls, ev
 
 "Will tonight be bad?" she asked, not looking at him.
 
-*Tonight will be different,* he said. *Lie on the floor. On your front. Put your arm down the hole.*
+⟨Tonight will be different,⟩ he said. ⟨Lie on the floor. On your front. Put your arm down the hole.⟩
 
 She looked at the hole, and then at him, and then at the hole again.
 
 "That is the least dignified thing anyone has ever asked me to do."
 
-*I spent last night in a sewer under a wolf,* said Romeo. *Dignity is a luxury of the well-cultivated.*
+⟨I spent last night in a sewer under a wolf,⟩ said Romeo. ⟨Dignity is a luxury of the well-cultivated.⟩
 
 ---
 
@@ -74,7 +74,7 @@ The earth qi came up into him slowly. It always came slowly. It was the slowest 
 
 She flinched. Then she went still.
 
-*Out first,* he said. *All the way.*
+⟨Out first,⟩ he said. ⟨All the way.⟩
 
 She breathed out.
 
@@ -86,7 +86,7 @@ He had been turning her meridians by main force for three nights, one cupful at 
 
 It still hurt her. Twice her fingers spasmed against his muzzle, and once she made a small sound into the floorboards that he pretended not to hear. But she was not sick into a bowl, and she did not curl up, and at some point in the hour of the rat her breath went long and even and she said, wonderingly, into the dark, "It's cold. Romeo, it's *cold*, in my arm. It's never been cold."
 
-*That is the mountain,* said Romeo. *Do not thank it. It does not care.*
+⟨That is the mountain,⟩ said Romeo. ⟨Do not thank it. It does not care.⟩
 
 His own legs were shaking. He had not been ready for that. Qi that passes through a body leaves a little of itself behind, and also takes a little of the body with it, and his channels were a puppy's channels: narrow, new, and not built to be a road for anything heavier than his own small sea. He felt them ache along the whole length of his spine, down the long back that was his weakness in every body he had ever had.
 
@@ -99,7 +99,7 @@ He did not stop. He had been praising her courage in silence for three nights. I
 
 "Six," Ling Mei whispered. She was half asleep already, her face soft and slack against the boards. "Six, Romeo."
 
-*Six,* said Romeo, and lay on the thinned, exhausted thread of earth qi, and tried to stop his legs from shaking.
+⟨Six,⟩ said Romeo, and lay on the thinned, exhausted thread of earth qi, and tried to stop his legs from shaking.
 
 ---
 
@@ -137,17 +137,17 @@ Brow was lying in them.
 
 The great blue-white wolf lay with his chin on his forepaws and the bronze collar dull with frost, and his pale eyes were already open and already on the tunnel mouth. Romeo had not smelled him. Romeo, who could smell a lie across a courtyard and a pill through a leather pouch, had come out of the ground with the wind at his back and had not smelled a wolf the size of a cart lying in the reeds ten paces away.
 
-*You chose your wind,* Romeo said.
+⟨You chose your wind,⟩ Romeo said.
 
-*I have the best nose in the kennels, small dog,* said Brow, in his rusty-gate voice. *It means I know where everyone else's is.* The pale eyes did not blink. *He asked me a question last night.*
+⟨I have the best nose in the kennels, small dog,⟩ said Brow, in his rusty-gate voice. ⟨It means I know where everyone else's is.⟩ The pale eyes did not blink. ⟨He asked me a question last night.⟩
 
 Romeo's hackles went up all along his back, the whole length of him, the way they had for the stone.
 
-*Not the right one,* said Brow. *He asked whether the girl's dog smelled of anything but dog. I told him the truth. You smelled of bitterroot, bathwater, and dog.* A long breath, steaming in the cold. *That is not why I came.*
+⟨Not the right one,⟩ said Brow. ⟨He asked whether the girl's dog smelled of anything but dog. I told him the truth. You smelled of bitterroot, bathwater, and dog.⟩ A long breath, steaming in the cold. ⟨That is not why I came.⟩
 
-*Then why?*
+⟨Then why?⟩
 
-*A sealed slip came down the mountain at midnight. He read it in front of me.* Brow lifted his great head from his paws. *The collector is not coming in seven days. The collector is coming in four.*
+⟨A sealed slip came down the mountain at midnight. He read it in front of me.⟩ Brow lifted his great head from his paws. ⟨The collector is not coming in seven days. The collector is coming in four.⟩
 
 **\[SYSTEM NOTICE\]**  
 **\[Quest updated: "Nine Days to Stop Being a Puppy."\]**  
@@ -157,4 +157,4 @@ Behind Romeo, up through the floor of the hut, he could hear Ling Mei breathing,
 
 Brow stood, shook the frost from his coat, and looked down at him from a very great height.
 
-*So, small dog,* he said. *What will you do now?*
+⟨So, small dog,⟩ he said. ⟨What will you do now?⟩

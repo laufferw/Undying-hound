@@ -96,7 +96,9 @@ Status screen format (use this layout whenever Romeo checks his status):
 > * One speaker per paragraph. A character's actions and speech share a paragraph; anyone else's line starts a new one.  
 > * Keep the speaker obvious. In any back-and-forth, identify the speaker at least every three or four lines with a tag ("said Ling Mei") or an action beat ("Ling Mei shifted her arm."). Never run long untagged volleys.  
 > * Place tags at the first natural pause in a longer line ("'Fang's order,' said Ling Mei, 'is for the dark night.'"), not buried at the end.  
-> * Mind-speech: italics, and every mind-speech line in a conversation is attributed by a tag or beat (*said Romeo*, *Brow sent*), especially when more than one mind-speaker is present. Romeo's private thoughts are also italic, so mark them with "thought" (*Good,* thought Romeo) to keep them distinct from speech others hear.
+> * Mind-speech (any telepathic line another mind hears: Romeo, Ling Mei answering in her head, Brow, Bao, Smoke, any beast) goes in angle brackets, roman, punctuated exactly like quotation marks: ⟨Including the best collar,⟩ said Romeo. Split lines: ⟨The sleeping platform,⟩ said Romeo, ⟨is a special case.⟩ Emphasis inside uses italics: ⟨I am *not* luggage.⟩ Use the characters ⟨ (U+27E8) and ⟩ (U+27E9), never < >. Attribute mind-speech with a tag or beat like spoken dialogue, especially when several mind-speakers are present.  
+> * Italics are for private thoughts (*Good,* thought Romeo), lines Romeo addresses to the System or to his own body, remembered words, sounds, scents and emphasis. Never use italics for telepathy.  
+> * Spoken-aloud dialogue (including the stranger speaking aloud in borrowed voices) uses "double quotes".
 
 ## **Planned first arc: "The Oldest Puppy" (Chapters 1–25, loose outline)**
 

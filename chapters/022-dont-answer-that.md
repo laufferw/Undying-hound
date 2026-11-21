@@ -12,7 +12,7 @@ His back legs did not sit. His tail, held fast in Ling Mei's fist, tried to wag,
 
 Ling Mei did not let go of his tail. She backed away up the slope on her knees, drawing him after her through the snow like a sledge on a rope, until there was a second boulder between them and the slot. Then she let go, and sat down hard, and he heard her teeth start to chatter.
 
-*Don't speak,* he said into her mind. *Whatever is in there has ears.*
+⟨Don't speak,⟩ he said into her mind. ⟨Whatever is in there has ears.⟩
 
 She nodded. Her lips were blue at the edges. She had carried him over a mountain in the dark and there was nothing left in her, and they were sitting in the open on the shore of a frozen lake with something that knew Bao's private knock lying in a hole a dozen body-lengths away.
 
@@ -40,7 +40,7 @@ Romeo found he was standing. He did not remember standing. His tail was going, s
 
 Ling Mei looked at him, and then at his tail, and then she put her hand flat on his back. She did not grab. She did not pull. She just left her hand there, warm through the snow on his coat.
 
-*It's mine,* he said. He could hear how it sounded. *It's the river. They've got the river in there.*
+⟨It's mine,⟩ he said. He could hear how it sounded. ⟨It's the river. They've got the river in there.⟩
 
 "Then it'll keep," she whispered. "Won't it? If they want you to have it so badly."
 
@@ -56,55 +56,55 @@ The ice at the edge of the lake was as thick as Romeo was long, and it creaked w
 
 Down there was a great slow darkness, and in the darkness something enormous breathed once in a long while, like a tide.
 
-*Bao.*
+⟨Bao.⟩
 
 The answer took so long that Romeo had begun to count his own heartbeats.
 
-*You didn't answer it.*
+⟨You didn't answer it.⟩
 
-*You told me not to,* said Romeo.
+⟨You told me not to,⟩ said Romeo.
 
-*Since when,* said Bao, *has that ever worked.* A pause like a season. *Good. Good, little brother.*
+⟨Since when,⟩ said Bao, ⟨has that ever worked.⟩ A pause like a season. ⟨Good. Good, little brother.⟩
 
 Romeo pressed closer to the ice. Bao's voice was thin, so thin, as if it came up through every one of the twenty-four threads and every thread took its share.
 
-*Who knows the knock?*
+⟨Who knows the knock?⟩
 
-*You.* The breath of the lake went in and out. *And one other. I told it twice in ten thousand years, and the other one has been gone a very long time.*
+⟨You.⟩ The breath of the lake went in and out. ⟨And one other. I told it twice in ten thousand years, and the other one has been gone a very long time.⟩
 
-*Gone where?*
+⟨Gone where?⟩
 
 Bao did not answer that, and Romeo knew the old turtle's silences well enough to know that this one was a closed door and not a slow one.
 
-*Then tell me about the threads,* said Romeo. *What are they tied with?*
+⟨Then tell me about the threads,⟩ said Romeo. ⟨What are they tied with?⟩
 
 This silence was slower, and worse.
 
-*Names,* said Bao.
+⟨Names,⟩ said Bao.
 
 Romeo's ears went flat against the ice.
 
-*Not mine,* Bao went on. *They took mine a long while ago, and it has worn thin. A thread tied with a thin name slips. So it comes every dark of the moon, the thing with no smell, and it unties one knot and ties it again with something fresher.* A long breath. *Lately they taste of wolf. The last one tasted of a wolf that dreamed about snow. And the moon before that one there was something small and frightened in it, a fox, maybe, or nearly a fox. It hadn't been taken yet. It had only been promised.*
+⟨Not mine,⟩ Bao went on. ⟨They took mine a long while ago, and it has worn thin. A thread tied with a thin name slips. So it comes every dark of the moon, the thing with no smell, and it unties one knot and ties it again with something fresher.⟩ A long breath. ⟨Lately they taste of wolf. The last one tasted of a wolf that dreamed about snow. And the moon before that one there was something small and frightened in it, a fox, maybe, or nearly a fox. It hadn't been taken yet. It had only been promised.⟩
 
 The fox, Romeo thought. Bright-Tail-Under-the-Bamboo, in her cage with the silver hasp, and her name held safe in Brow's mouth, and somebody waiting.
 
-*The stone in the sect yard,* he said. *It bites the edges off their names. The escort takes the edges up to the pin. And the pin...*
+⟨The stone in the sect yard,⟩ he said. ⟨It bites the edges off their names. The escort takes the edges up to the pin. And the pin...⟩
 
-*Leads here,* said Bao. *Everything leads here. I am the lake at the bottom of the hill, little brother. Things roll down to me.*
+⟨Leads here,⟩ said Bao. ⟨Everything leads here. I am the lake at the bottom of the hill, little brother. Things roll down to me.⟩
 
-*And the thing with no smell. What is it?*
+⟨And the thing with no smell. What is it?⟩
 
 The deep darkness under the ice moved, very slightly, and a fine crack ran out from beneath Romeo's chest with a sound like a bowstring.
 
-*I don't know. But I've been lying here thinking, and I have had a great deal of time to think, and I'll tell you what I think. You can't smell it because there's nothing there to smell. A thing is mostly its name, the way a pot is mostly the hole in the middle. That one has no hole in the middle. It has no name of its own at all.* The voice faded and came back. *So it borrows. It wears other people's. And this morning it wanted one more.*
+⟨I don't know. But I've been lying here thinking, and I have had a great deal of time to think, and I'll tell you what I think. You can't smell it because there's nothing there to smell. A thing is mostly its name, the way a pot is mostly the hole in the middle. That one has no hole in the middle. It has no name of its own at all.⟩ The voice faded and came back. ⟨So it borrows. It wears other people's. And this morning it wanted one more.⟩
 
 Romeo lay on the ice and thought of the tapping in the crack, tap, pause, tap, and of the knock, three and then two, which was not that rhythm at all, and of a river held out in the dark. Two different hands, perhaps. Or one hand learning.
 
-*You're freezing,* said Bao. *And the girl is freezing worse.*
+⟨You're freezing,⟩ said Bao. ⟨And the girl is freezing worse.⟩
 
-*She carried me.*
+⟨She carried me.⟩
 
-*Did she.* If a turtle at the bottom of a frozen lake could sound pleased, Bao did, for half a breath. *Then hold still. I have one toe. Let's see what it's good for.*
+⟨Did she.⟩ If a turtle at the bottom of a frozen lake could sound pleased, Bao did, for half a breath. ⟨Then hold still. I have one toe. Let's see what it's good for.⟩
 
 ---
 
@@ -114,7 +114,7 @@ He felt his own small ember take it and brighten. He felt the ache in his back l
 
 He turned his head and looked back at the shore. Ling Mei was sitting against the boulder with her arms wrapped round her knees, and she was shaking, and she was trying to hide the shaking from him, which was the most foolish thing he had seen anyone do in a century.
 
-*Bao,* he said. *Keep it coming.*
+⟨Bao,⟩ he said. ⟨Keep it coming.⟩
 
 He went back across the ice to her, holding the warmth inside him as carefully as a mouthful of water, and climbed into her lap without asking, and put his nose against the inside of her wrist where the backward tide of her ran closest to the skin. Then he opened the conduit and let Bao's gift go through him and into her.
 
@@ -129,29 +129,29 @@ Her teeth stopped chattering.
 
 "Romeo," Ling Mei said, very low. "What did you just do?"
 
-*An old friend sent you some soup,* said Romeo. *I carried it. Don't make a fuss.*
+⟨An old friend sent you some soup,⟩ said Romeo. ⟨I carried it. Don't make a fuss.⟩
 
 She looked at him, and then out at the smooth grey ice, and then she leaned down and said, quite seriously, to the lake: "Thank you."
 
-From somewhere very deep, Romeo felt Bao's slow surprise. *Polite,* said the old turtle. *That's new. You never were.*
+From somewhere very deep, Romeo felt Bao's slow surprise. ⟨Polite,⟩ said the old turtle. ⟨That's new. You never were.⟩
 
 ---
 
-*Go,* Bao said, when the warmth had thinned and stopped. *It's day. It mostly keeps to the dark, but mostly is a big word. Go down, and keep the girl out of sight, and come back before the moon goes. If you are going to do something stupid at the new moon, little brother, I would like to be consulted.*
+⟨Go,⟩ Bao said, when the warmth had thinned and stopped. ⟨It's day. It mostly keeps to the dark, but mostly is a big word. Go down, and keep the girl out of sight, and come back before the moon goes. If you are going to do something stupid at the new moon, little brother, I would like to be consulted.⟩
 
-*You'd say no.*
+⟨You'd say no.⟩
 
-*I would say no very slowly,* said Bao. *You would have time to change your mind.*
+⟨I would say no very slowly,⟩ said Bao. ⟨You would have time to change your mind.⟩
 
 Ling Mei got to her feet. She was steadier than she had been, though not by much, and she looked down at the long road home over the white shoulder of the mountain with the face of someone adding it up.
 
 "I'm meant to be hauling water at the hour of the snake," she said. "The junior steward counts the buckets."
 
-*Then he will count fewer buckets,* said Romeo, *and a girl with no qi will have been somewhere she can't explain. We'll think of something on the way.* He considered. *You will think of something. I'll be inside your coat.*
+⟨Then he will count fewer buckets,⟩ said Romeo, ⟨and a girl with no qi will have been somewhere she can't explain. We'll think of something on the way.⟩ He considered. ⟨You will think of something. I'll be inside your coat.⟩
 
 "You said you weren't luggage."
 
-*I am precious cargo,* said Romeo. *It's different.*
+⟨I am precious cargo,⟩ said Romeo. ⟨It's different.⟩
 
 She laughed, once, a small cracked sound in all that stillness, and bent to pick him up.
 

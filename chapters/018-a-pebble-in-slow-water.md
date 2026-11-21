@@ -97,17 +97,17 @@ Romeo lay on the floor in front of it, because the sleeping platform was a speci
 
 "It said Romeo," said Ling Mei, to the brazier.
 
-*It did.*
+⟨It did.⟩
 
 "Before that. It started to say something else. I saw it. The light went strange." She turned round at last. Her eyes were red. "What was it going to say?"
 
 He thought about lying to her. He had lied to emperors. It would have been very easy.
 
-*The name I had before Shen,* he said. *The one I gave myself. Nobody has heard it since I was a puppy the first time. Not even Bao.*
+⟨The name I had before Shen,⟩ he said. ⟨The one I gave myself. Nobody has heard it since I was a puppy the first time. Not even Bao.⟩
 
 "And it nearly took it."
 
-*It took a little of the other one instead. Not much.* He put his chin down on his paws, and thought about the river, and the smell of the water that was now one step further off. *It's all right. I have a great deal of it.*
+⟨It took a little of the other one instead. Not much.⟩ He put his chin down on his paws, and thought about the river, and the smell of the water that was now one step further off. ⟨It's all right. I have a great deal of it.⟩
 
 She sat down beside him on the cold floor, which outer disciples were not supposed to do either, and put her good hand flat on his side, over the ribs, and left it there.
 
@@ -115,7 +115,7 @@ She sat down beside him on the cold floor, which outer disciples were not suppos
 
 Romeo considered several answers, most of them clever. Then he gave her the true one.
 
-*I looked at you.*
+⟨I looked at you.⟩
 
 Ling Mei did not say anything for a long time. Then she said, "You horrible old sock," in a voice that did not sound anything like the way she usually said it, and scratched him, very carefully, behind one ear.
 
@@ -139,12 +139,12 @@ Two bright eyes looked at him out of the dark of the back door. A narrow head. W
 
 Then a voice spoke in Romeo's mind, small and dry and very tired, like a twig breaking under snow.
 
-*The old man says,* said the stoat, *the stone was warm after you.*
+⟨The old man says,⟩ said the stoat, ⟨the stone was warm after you.⟩
 
 Romeo did not move.
 
-*He says since it came down from the third tier he has touched it after every beast, and it has never once been warm.* The whiskers twitched. *He says he has an idea where the names go, and he would rather show you than say it. Come to the kennels by the drain at the hour of the rat. Before the masks at the stone change their guard.*
+⟨He says since it came down from the third tier he has touched it after every beast, and it has never once been warm.⟩ The whiskers twitched. ⟨He says he has an idea where the names go, and he would rather show you than say it. Come to the kennels by the drain at the hour of the rat. Before the masks at the stone change their guard.⟩
 
 The stoat began to back away into the tunnel. At the edge of the dark, it stopped.
 
-*He also says,* it added, *please do not eat me. I am only the messenger, and I am quite old.*
+⟨He also says,⟩ it added, ⟨please do not eat me. I am only the messenger, and I am quite old.⟩

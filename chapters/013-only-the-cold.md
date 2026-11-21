@@ -132,7 +132,7 @@ Then her nose wrinkled.
 
 "You smell different," she said slowly. "You smell like..." She frowned. "Like the kennels. Like the wolves."
 
-*Good,* said Romeo, into her mind, and felt her start. *That's the idea. I'll explain. I need to sleep for about a year first.*
+⟨Good,⟩ said Romeo, into her mind, and felt her start. ⟨That's the idea. I'll explain. I need to sleep for about a year first.⟩
 
 He did not get a year. He did not get an hour.
 

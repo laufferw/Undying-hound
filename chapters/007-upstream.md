@@ -4,63 +4,63 @@ Romeo did not answer at once. When a much larger creature asks what you will do,
 
 Also, he had come out of the tunnel for a reason, and the reason had not gone away because a wolf was lying in it.
 
-*First,* he said, *I am going to do what I came out here to do. You may look at the sky.*
+⟨First,⟩ he said, ⟨I am going to do what I came out here to do. You may look at the sky.⟩
 
 Brow looked at the sky. He did it with great seriousness, his pale eyes fixed on the last stars over the outer wall, while a very small red-and-white dog stepped high and carefully through the frozen reeds, chose a stalk with the deliberation of an emperor choosing a throne, rejected it, chose another, and finally lifted a short hind leg against it with a look of profound inner peace.
 
-*Thank you,* said Romeo, coming back.
+⟨Thank you,⟩ said Romeo, coming back.
 
-*You took a long time choosing,* said Brow.
+⟨You took a long time choosing,⟩ said Brow.
 
-*It is the one thing in my life I still get to choose freely.* Romeo sat down. On a frozen ditch bank, with short legs and a long middle, this was not a graceful operation: his hind end went down, his front legs stayed straight, and his belly settled onto the frost between them with a small, unhappy crunch. *You said he has not asked you the right question.*
+⟨It is the one thing in my life I still get to choose freely.⟩ Romeo sat down. On a frozen ditch bank, with short legs and a long middle, this was not a graceful operation: his hind end went down, his front legs stayed straight, and his belly settled onto the frost between them with a small, unhappy crunch. ⟨You said he has not asked you the right question.⟩
 
-*He has not.*
+⟨He has not.⟩
 
-*What is the right question?*
+⟨What is the right question?⟩
 
-The great wolf considered this. Steam rose off his muzzle in two slow plumes. *If I knew exactly, small dog, I would be careful never to stand where he could think of it. He is a careful man. He will get there.*
+The great wolf considered this. Steam rose off his muzzle in two slow plumes. ⟨If I knew exactly, small dog, I would be careful never to stand where he could think of it. He is a careful man. He will get there.⟩
 
-*Then why tell me anything at all?*
+⟨Then why tell me anything at all?⟩
 
 He let the question sit, and while it sat, he breathed in.
 
 Wolf, first. Frost, iron, cedar shavings from the kennel floor, the bronze of the collar going green where it touched the fur. Under that, Brow's intent, which Romeo had expected to be the clean, cool smell of a hunter calculating, and which was not. It was older and greyer than that. It smelled like a den that had been empty for a long time. Like ash in a hearth no one had lit since the summer.
 
-*There was a fox,* said Brow, *in the bamboo below the east wall.*
+⟨There was a fox,⟩ said Brow, ⟨in the bamboo below the east wall.⟩
 
 Romeo's ears came forward.
 
-*She stole from the feed counter. Dried fish, mostly, when the steward was not looking. I let her. Every beast in the kennels let her. Grey used to leave the end of his meat by the bars where her paw would reach.* The pale eyes were on the outer wall now, not the sky. *She was the only one of us who went home at night. Then a grey stone came down from the third tier, and someone set her paw on it, and her name went up the mountain. She did not come to the counter again.*
+⟨She stole from the feed counter. Dried fish, mostly, when the steward was not looking. I let her. Every beast in the kennels let her. Grey used to leave the end of his meat by the bars where her paw would reach.⟩ The pale eyes were on the outer wall now, not the sky. ⟨She was the only one of us who went home at night. Then a grey stone came down from the third tier, and someone set her paw on it, and her name went up the mountain. She did not come to the counter again.⟩
 
 Bright-Tail-Under-the-Bamboo. Romeo had smelled her name in the stone, the way you can smell a thing that has been taken out of a box by the shape of the empty place it left.
 
-*So you are telling me this,* he said slowly, *because you were fond of a fox.*
+⟨So you are telling me this,⟩ he said slowly, ⟨because you were fond of a fox.⟩
 
-*I am telling you this,* said Brow, *because I would like, once, to smell a collector leave this mountain with nothing.*
+⟨I am telling you this,⟩ said Brow, ⟨because I would like, once, to smell a collector leave this mountain with nothing.⟩
 
 It was true. Romeo could smell that it was true, all the way down. He sat in the frost and felt something in his chest that he had felt a hundred times, and a hundred times more than that, and had never once been able to stop: the small, foolish opening of a door.
 
-*What did they call you,* he asked, *before he called you Brow?*
+⟨What did they call you,⟩ he asked, ⟨before he called you Brow?⟩
 
 For a long moment the wolf did not answer, and Romeo thought he had gone too far.
 
-*Brow is a good name for a wolf who works,* Brow said at last. *Before it, I was very small. I do not remember the sound of what my mother called me.* He breathed out, and in the steam of it, for half a heartbeat, Romeo caught a smell that did not belong to any kennel: high snowfields under a white sun, wind with nothing in it for a hundred li. *It had snow in it. That is all I have.*
+⟨Brow is a good name for a wolf who works,⟩ Brow said at last. ⟨Before it, I was very small. I do not remember the sound of what my mother called me.⟩ He breathed out, and in the steam of it, for half a heartbeat, Romeo caught a smell that did not belong to any kennel: high snowfields under a white sun, wind with nothing in it for a hundred li. ⟨It had snow in it. That is all I have.⟩
 
-*That is not nothing,* said Romeo.
+⟨That is not nothing,⟩ said Romeo.
 
-*No,* Brow agreed. *It is not nothing.* He stood, and the bronze collar shifted on his great neck with a dull sound. *Hear this, and then I am going. On the morning before the collector comes, he will hold a naming in the stone chamber. Every bound beast in the hall. Every beast belonging to a disciple. The day after tomorrow's tomorrow, at the hour of the snake. If your girl comes to that naming without her dog, he will write "dog missing" in his ledger. And an unawakened dog that runs away three days before a collector arrives is the most interesting dog in the world.*
+⟨No,⟩ Brow agreed. ⟨It is not nothing.⟩ He stood, and the bronze collar shifted on his great neck with a dull sound. ⟨Hear this, and then I am going. On the morning before the collector comes, he will hold a naming in the stone chamber. Every bound beast in the hall. Every beast belonging to a disciple. The day after tomorrow's tomorrow, at the hour of the snake. If your girl comes to that naming without her dog, he will write "dog missing" in his ledger. And an unawakened dog that runs away three days before a collector arrives is the most interesting dog in the world.⟩
 
 The morning of Day 7\. Romeo counted it out against the quest timer and did not like the sum.
 
-*Then I will be there,* he said. *In the meantime, I have a plan—*
+⟨Then I will be there,⟩ he said. ⟨In the meantime, I have a plan—⟩
 
-*Do not tell me.* Brow's voice was sharp for the first time. *Whatever it is. What I do not know, I cannot be asked.*
+⟨Do not tell me.⟩ Brow's voice was sharp for the first time. ⟨Whatever it is. What I do not know, I cannot be asked.⟩
 
-Romeo tilted his head. It went over to the left, the way it always did, before he had decided to tilt it. *Then I will tell you only this much. I am going to visit an old friend.*
+Romeo tilted his head. It went over to the left, the way it always did, before he had decided to tilt it. ⟨Then I will tell you only this much. I am going to visit an old friend.⟩
 
 The wolf closed his eyes briefly, like a man who has been handed a coal.
 
-*That,* said Brow, *was already too much.*
+⟨That,⟩ said Brow, ⟨was already too much.⟩
 
 He turned into the wind and was gone. Romeo, who had the finest nose on the first tier and possibly the second, lost his scent inside ten paces.
 
@@ -70,15 +70,15 @@ Ling Mei woke at first light with a floorboard pattern pressed into one cheek an
 
 "Up the mountain," she said.
 
-*Up the seam. It comes down from the second tier. Where it begins, there is a lake, and under the lake there is a turtle who owes me a game of go and, by my count, four hundred and twelve favours.*
+⟨Up the seam. It comes down from the second tier. Where it begins, there is a lake, and under the lake there is a turtle who owes me a game of go and, by my count, four hundred and twelve favours.⟩
 
 "A turtle."
 
-*A very old turtle. Older than me. He knows things about chains that I have forgotten, and things about binding stones that I never learned, and if anyone under the Heavenly Court can tell me how to hide a dog from a collector without bitterroot, it is him.* Bitterroot was burned now, or nearly: Fang Wuji had the smell of it from his own wolf's mouth, and he kept everything he was given in a fold of paper. *I can be there in two days and back in one. Downhill is faster. I am built for rolling.*
+⟨A very old turtle. Older than me. He knows things about chains that I have forgotten, and things about binding stones that I never learned, and if anyone under the Heavenly Court can tell me how to hide a dog from a collector without bitterroot, it is him.⟩ Bitterroot was burned now, or nearly: Fang Wuji had the smell of it from his own wolf's mouth, and he kept everything he was given in a fold of paper. ⟨I can be there in two days and back in one. Downhill is faster. I am built for rolling.⟩
 
 "You can't get onto the sleeping platform."
 
-*The sleeping platform,* said Romeo, *is a special case.*
+⟨The sleeping platform,⟩ said Romeo, ⟨is a special case.⟩
 
 "You can barely stand. Your legs were shaking all night. I felt them through my wrist." She sat up and wiped her face with her sleeve, which made the dirt worse. "And tonight the vein is full again, and you want to go up a mountain instead of turning me."
 
@@ -92,7 +92,7 @@ Romeo's mouth, which had been open to argue, stayed open.
 
 "But not on those legs." She pointed at him. Her left hand still would not straighten all the way, and the finger she pointed with was crooked. "Today you sleep. You sleep on that vein all day, and I'll tell anyone who asks that the dog ate something from behind the kitchens and has the runs and is under the floor. Nobody ever wants to come and look at a dog with the runs." She took a breath. "No turning tonight. I can wait two days for eight percent. I can't wait forever for a dog who fell off a mountain because he was too proud to rest."
 
-*I am not proud,* said Romeo. *I am three thousand years old. It is a different thing.*
+⟨I am not proud,⟩ said Romeo. ⟨I am three thousand years old. It is a different thing.⟩
 
 "It smells the same from here," said Ling Mei.
 
@@ -134,7 +134,7 @@ She tied it loosely, in a knot he could slip with one paw if he had to, and then
 
 "Back by the morning of the seventh day," she said.
 
-*Back by the morning of the seventh day.*
+⟨Back by the morning of the seventh day.⟩
 
 "Good b—" She caught it. He looked at her. She looked back, entirely unrepentant. "Good luck," said Ling Mei.
 

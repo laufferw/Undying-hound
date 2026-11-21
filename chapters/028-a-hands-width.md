@@ -79,7 +79,7 @@ In the far stall the fox turned over in her straw and whimpered once in her slee
 
 Above them, very softly, Brow's voice came again, and only to Romeo.
 
-*Now he is not lying.*
+⟨Now he is not lying.⟩
 
 ---
 
@@ -111,9 +111,9 @@ Romeo looked at him. Then, deliberately, he set one forepaw on the back of the m
 
 Romeo thought that was excessive, and also a very soldier's thing to say, and also not the worst plan anyone had made that week.
 
-*Small dog,* said Brow from above, mind to mind, in the tone of a great wolf observing a puppy approach a beehive. *You are going to do something stupid.*
+⟨Small dog,⟩ said Brow from above, mind to mind, in the tone of a great wolf observing a puppy approach a beehive. ⟨You are going to do something stupid.⟩
 
-*I am going to consult a turtle first,* said Romeo, with dignity. *That is the difference between stupid and old.*
+⟨I am going to consult a turtle first,⟩ said Romeo, with dignity. ⟨That is the difference between stupid and old.⟩
 
 The wolf said nothing to that. But the straw above the grating rustled in a way that, in a smaller and less dignified animal, Romeo might have called a snort.
 
@@ -133,19 +133,19 @@ Then he lay down across the tunnel mouth with his chin on his paws, the way a da
 
 "You're back," said the floor.
 
-*I said I would be.*
+⟨I said I would be.⟩
 
 "You said a lot of things." A pause, and the creak of a girl who had been sitting on a board for two nights shifting her weight. "Was it a trap?"
 
-*Yes,* said Romeo. *A useful one. I'll tell you in the morning.*
+⟨Yes,⟩ said Romeo. ⟨A useful one. I'll tell you in the morning.⟩
 
 "Tell me now."
 
-*Ling Mei.* He made his inner voice as gentle as it went, which was not very; it had been made for other things. *Nothing is coming through your floor tonight. It has sent someone else to fetch me, and it is waiting for him to do it, and he isn't going to do it tonight. I am lying across its road. I have very long ears. Go to sleep.*
+⟨Ling Mei.⟩ He made his inner voice as gentle as it went, which was not very; it had been made for other things. ⟨Nothing is coming through your floor tonight. It has sent someone else to fetch me, and it is waiting for him to do it, and he isn't going to do it tonight. I am lying across its road. I have very long ears. Go to sleep.⟩
 
 Silence. Then: "On the board?"
 
-*On the board, if you like. On the platform, if you'd rather. I'll hear either.*
+⟨On the board, if you like. On the platform, if you'd rather. I'll hear either.⟩
 
 She did not answer. But after a while he heard a blanket being pulled close, and a body folding down sideways onto the floor, right on the third floorboard, and a breath going long and slow and then catching on a small snore.
 
