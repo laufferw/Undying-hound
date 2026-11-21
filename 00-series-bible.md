@@ -83,7 +83,7 @@ Status screen format (use this layout whenever Romeo checks his status):
 ## **Rules for every chapter**
 
 > * About 2,000 words (1,700–2,500). One clear event or turn per chapter. End on a hook.  
-> * Earned progression: at most one level per chapter in Qi Gathering, slowing as realms rise. Realm breakthroughs roughly every 10–15 chapters, each with a tribulation.  
+> * Earned progression: usually zero or one level per chapter. A chapter may grant several levels at once (up to about three in Qi Gathering, fewer in higher realms) only when a major, set-up catalyst earns it: a consumed treasure or spirit herb, a near-death ordeal, a deep insight, a refined or returned qi sea, or a climactic battle. Every multi-level jump must have a visible cost or aftermath (channel strain, exhaustion, unstable foundation, an enemy noticing). Gains slow as realms rise. Crossing a realm boundary always requires its tribulation. Realm breakthroughs roughly every 10–15 chapters.  
 > * Arcs of about 20–30 chapters, each with its own goal and climax, all feeding the Heavenly Leash mystery.  
 > * Continuity is sacred: honor the Ledger (stats, skills, items, injuries, locations, timeline). Never contradict a previous chapter.  
 > * Include at least one System notification per chapter.  
