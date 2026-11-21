@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dfe7ee"/>
+      <stop offset="1" stop-color="#f4f6f8"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b5562a"/>
+      <stop offset="1" stop-color="#8f3d1c"/>
+    </linearGradient>
+    <linearGradient id="ear" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9a4320"/>
+      <stop offset="1" stop-color="#6f2d13"/>
+    </linearGradient>
+    <clipPath id="bodyClip">
+      <path d="M200,262 C198,226 250,214 305,217 L515,221 C565,223 592,250 588,292 C585,332 560,347 520,347 L262,347 C214,347 202,312 200,262 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="800" height="520" fill="url(#sky)"/>
+  <path d="M0,395 C160,380 300,392 420,388 C560,383 680,392 800,386 L800,520 L0,520 Z" fill="#ffffff"/>
+  <ellipse cx="400" cy="400" rx="250" ry="16" fill="#c9d3dc" opacity="0.7"/>
+  <g fill="#ffffff" opacity="0.9">
+    <circle cx="90" cy="70" r="4"/><circle cx="170" cy="140" r="3"/><circle cx="300" cy="60" r="3.5"/>
+    <circle cx="460" cy="110" r="3"/><circle cx="740" cy="60" r="4"/><circle cx="720" cy="250" r="3"/>
+    <circle cx="60" cy="260" r="3"/><circle cx="380" cy="170" r="2.5"/><circle cx="770" cy="170" r="2.5"/>
+  </g>
+
+  <!-- tail -->
+  <path d="M212,252 C180,236 160,214 146,186" stroke="#9a4320" stroke-width="15" fill="none" stroke-linecap="round"/>
+  <path d="M152,198 C148,191 145,185 143,178" stroke="#ffffff" stroke-width="13" fill="none" stroke-linecap="round"/>
+
+  <!-- far legs (slightly darker) -->
+  <rect x="236" y="322" width="22" height="62" rx="10" fill="#7d3417"/>
+  <rect x="540" y="322" width="22" height="62" rx="10" fill="#e9e4dd"/>
+  <ellipse cx="249" cy="386" rx="16" ry="8" fill="#e9e4dd"/>
+  <ellipse cx="553" cy="386" rx="16" ry="8" fill="#e9e4dd"/>
+
+  <!-- body -->
+  <path d="M200,262 C198,226 250,214 305,217 L515,221 C565,223 592,250 588,292 C585,332 560,347 520,347 L262,347 C214,347 202,312 200,262 Z" fill="url(#red)"/>
+  <g clip-path="url(#bodyClip)">
+    <!-- white belly -->
+    <path d="M230,330 C300,312 420,310 520,300 C560,296 580,290 600,280 L600,360 L200,360 Z" fill="#ffffff"/>
+    <!-- white band near hips -->
+    <path d="M258,200 C272,240 270,290 262,360 L298,360 C304,300 304,240 292,200 Z" fill="#ffffff"/>
+  </g>
+
+  <!-- hemp chest harness -->
+  <path d="M498,222 C492,260 494,310 504,344" stroke="#c9a96e" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <path d="M498,222 C492,260 494,310 504,344" stroke="#a88a52" stroke-width="2" stroke-dasharray="5 6" fill="none"/>
+
+  <!-- near legs -->
+  <rect x="212" y="318" width="25" height="66" rx="11" fill="#9a4320"/>
+  <rect x="516" y="318" width="25" height="66" rx="11" fill="#ffffff"/>
+  <ellipse cx="226" cy="388" rx="18" ry="9" fill="#ffffff"/>
+  <ellipse cx="530" cy="388" rx="18" ry="9" fill="#ffffff"/>
+  <path d="M219,388 v6 M226,389 v6 M233,388 v6 M523,388 v6 M530,389 v6 M537,388 v6" stroke="#d8d2ca" stroke-width="1.5"/>
+
+  <!-- neck -->
+  <path d="M530,226 C560,190 590,165 618,150 L660,200 C640,230 610,262 586,290 Z" fill="#a84c23"/>
+  <!-- white chest -->
+  <path d="M586,240 C606,232 626,214 646,196 C640,240 612,290 584,318 C578,290 578,262 586,240 Z" fill="#ffffff"/>
+
+  <!-- blue lunch cloth at neck -->
+  <path d="M574,196 C596,214 624,222 650,214 L646,230 C620,240 590,232 566,214 Z" fill="#3e6fa8"/>
+  <path d="M604,226 L594,258 L612,250 L618,262 L622,228 Z" fill="#335f92"/>
+  <circle cx="612" cy="228" r="7" fill="#2f5683"/>
+
+  <!-- head, tilted up -->
+  <g transform="rotate(-24 640 160)">
+    <ellipse cx="636" cy="160" rx="50" ry="40" fill="url(#red)"/>
+    <!-- muzzle -->
+    <path d="M660,138 C700,138 740,146 758,156 C764,166 758,180 744,184 C716,190 684,190 664,186 Z" fill="#a84c23"/>
+    <!-- white blaze on muzzle and chin -->
+    <path d="M690,148 C716,148 742,152 756,158 C762,168 756,180 742,184 C716,190 690,190 672,186 C676,172 680,158 690,148 Z" fill="#ffffff"/>
+    <path d="M650,186 C676,198 716,196 740,186 C722,202 680,206 652,196 Z" fill="#ffffff"/>
+    <!-- nose -->
+    <ellipse cx="757" cy="161" rx="10" ry="8" fill="#b9706a"/>
+    <ellipse cx="760" cy="159" rx="3" ry="2" fill="#e0a8a2"/>
+    <!-- mouth -->
+    <path d="M752,176 C736,184 716,186 700,183" stroke="#8a5a50" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <!-- scar across muzzle -->
+    <path d="M706,146 L724,170" stroke="#e7c3b6" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- eye -->
+    <ellipse cx="660" cy="146" rx="11" ry="10" fill="#3b2412"/>
+    <circle cx="660" cy="146" r="8" fill="#b97a2a"/>
+    <circle cx="661" cy="146" r="4.5" fill="#1d120a"/>
+    <circle cx="664" cy="142" r="2.6" fill="#ffffff"/>
+    <path d="M648,134 C656,128 668,130 674,136" stroke="#7a3216" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- long floppy ear -->
+  <path d="M610,128 C588,140 578,180 584,220 C588,246 606,256 618,246 C630,234 630,196 628,166 C627,148 622,134 610,128 Z" fill="url(#ear)"/>
+  <path d="M600,150 C594,180 596,214 604,236" stroke="#5e2410" stroke-width="2" fill="none" opacity="0.5"/>
+
+  <text x="40" y="490" font-family="Georgia, serif" font-size="22" fill="#6b7782" font-style="italic">Romeo, the Undying Hound</text>
+</svg>
