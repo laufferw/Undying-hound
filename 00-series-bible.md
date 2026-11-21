@@ -89,6 +89,15 @@ Status screen format (use this layout whenever Romeo checks his status):
 > * Include at least one System notification per chapter.  
 > * Vary chapter shapes: fights, heists, tournaments, cultivation breakthroughs, quiet character moments, flashbacks to Old Man Shen, travel, mysteries.
 
+## **Formatting and dialogue (every chapter)**
+
+> * Separate every paragraph with a blank line. Never use trailing-space soft line breaks between paragraphs. The only exception: consecutive System notice or STATUS lines stay together as one block, each line ending in two spaces.  
+> * Put a blank line before and after every "---" scene break.  
+> * One speaker per paragraph. A character's actions and speech share a paragraph; anyone else's line starts a new one.  
+> * Keep the speaker obvious. In any back-and-forth, identify the speaker at least every three or four lines with a tag ("said Ling Mei") or an action beat ("Ling Mei shifted her arm."). Never run long untagged volleys.  
+> * Place tags at the first natural pause in a longer line ("'Fang's order,' said Ling Mei, 'is for the dark night.'"), not buried at the end.  
+> * Mind-speech: italics, and every mind-speech line in a conversation is attributed by a tag or beat (*said Romeo*, *Brow sent*), especially when more than one mind-speaker is present. Romeo's private thoughts are also italic, so mark them with "thought" (*Good,* thought Romeo) to keep them distinct from speech others hear.
+
 ## **Planned first arc: "The Oldest Puppy" (Chapters 1–25, loose outline)**
 
 > * Romeo recovers at the Azure Wolf Sect's outer courtyard and secretly fixes Ling Mei's reversed meridians.  
