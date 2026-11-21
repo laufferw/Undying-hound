@@ -78,7 +78,7 @@ In the afternoon, between buckets, they argued.
 
 "Romeo, that is what a trap looks like. That is the picture they would paint in a book, if they were teaching children about traps."
 
-*I smelled him at the well. Traps smell of patience, and of being pleased with yourself. He smelled of nothing but fear. And he said "the door." Something knocked for him too, in somebody's voice, and he didn't open.*
+*I smelled him at the well,* said Romeo. *Traps smell of patience, and of being pleased with yourself. He smelled of nothing but fear. And he said "the door." Something knocked for him too, in somebody's voice, and he didn't open.*
 
 "Then what does he want?"
 
@@ -182,7 +182,7 @@ At last the man lifted his head. "I owe you," he said. "So listen. Your old man.
 
 Romeo did not move. His tail, in the dark, did, once.
 
-"On the new moon," Ah-Shu went on, faster now, "the collector goes to the stone, and I'm to go up the passage with the last of the edges, and the room will be open. It's the only night it's open. I can take you. There and back, and nobody looks at the bottom of a wall." "That's all I want. To give you that, and then get out of these mountains before I forget anything else."
+"On the new moon," Ah-Shu went on, faster now, "the collector goes to the stone, and I'm to go up the passage with the last of the edges, and the room will be open. It's the only night it's open. I can take you. There and back, and nobody looks at the bottom of a wall. That's all I want. To give you that, and then get out of these mountains before I forget anything else."
 
 It was a good offer. It smelled almost entirely of fear and gratitude, and Romeo had smelled worse men tell the truth.
 

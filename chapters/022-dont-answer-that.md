@@ -62,7 +62,7 @@ The answer took so long that Romeo had begun to count his own heartbeats.
 
 *You didn't answer it.*
 
-*You told me not to.*
+*You told me not to,* said Romeo.
 
 *Since when,* said Bao, *has that ever worked.* A pause like a season. *Good. Good, little brother.*
 

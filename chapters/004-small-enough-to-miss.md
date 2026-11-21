@@ -108,7 +108,7 @@ Romeo came out of the trench as a wet thing comes out of a river: slowly, and th
 
 *You're welcome,* said Grey. He had lain back down. In the dark, his torn ear was a ragged shape against the bars. *Brow would have had you. He smells better than any of us. They give him the best of everything.*
 
-*Including the best collar.*
+*Including the best collar,* said Romeo.
 
 A long pause.
 

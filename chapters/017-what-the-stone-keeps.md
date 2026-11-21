@@ -62,7 +62,7 @@ Ling Mei's good hand closed round his muzzle, gently and absolutely. "No," she s
 
 *I wasn't going to,* said Romeo, with enormous dignity, through her fingers.
 
-*You were.*
+*You were,* she thought back.
 
 *I was considering it in an abstract way.*
 

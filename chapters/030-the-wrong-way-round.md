@@ -28,7 +28,7 @@ He had pushed it into her all at once, in the time of a breath, the way you thro
 
 *Hm,* said Romeo.
 
-"That's not a good sound."
+"That's not a good sound," said Ling Mei.
 
 *It's a thinking sound.*
 

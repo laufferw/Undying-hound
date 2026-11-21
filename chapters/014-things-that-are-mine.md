@@ -14,7 +14,7 @@ She did not ask how. She put him down on the blanket, slid off the platform, hoo
 
 It was a good lie. Romeo could smell it from where he lay, and it smelled almost exactly like the truth, because her robe was half off one shoulder from wrestling him out of the shaft. *Listen to me,* he told her, fast. *Don't hide that I'm wet. Don't hide that I'm hurt. He'll smell both through the door. Hide the hole. Everything else, tell him the truth about a stupid dog.*
 
-*What truth?*
+*What truth?* she thought back.
 
 *That I ran off and you found me in the drain.*
 

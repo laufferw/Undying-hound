@@ -78,7 +78,7 @@ Ling Mei woke at first light with a floorboard pattern pressed into one cheek an
 
 "You can't get onto the sleeping platform."
 
-*The sleeping platform is a special case.*
+*The sleeping platform,* said Romeo, *is a special case.*
 
 "You can barely stand. Your legs were shaking all night. I felt them through my wrist." She sat up and wiped her face with her sleeve, which made the dirt worse. "And tonight the vein is full again, and you want to go up a mountain instead of turning me."
 

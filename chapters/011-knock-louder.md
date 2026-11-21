@@ -44,7 +44,7 @@ Nothing. Then, very far away: *...mm.*
 
 *Is it...* The thought trailed off. *I was dreaming of silk.*
 
-*It's not a dream. It's a lullaby, and it's for you, and you're not a hatchling. Wake up.*
+*It's not a dream,* said Romeo. *It's a lullaby, and it's for you, and you're not a hatchling. Wake up.*
 
 Pluck. Pluck. The stone under his chin was cooling again.
 
@@ -130,7 +130,7 @@ Romeo hung on the ridge of shell in the dark, and did not flinch, because his ne
 
 *Her name is Ling Mei. There's a naming at the sect the morning after tomorrow. If she brings no dog, they'll know. And a collector is coming the day after that.*
 
-*Can you walk home in a day and a half?*
+*Can you walk home in a day and a half?* asked Bao.
 
 *Just about. If nothing goes wrong.*
 
