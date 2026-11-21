@@ -1,5 +1,9 @@
 # Romeo, the Undying Hound
 
+<p align="center"><img src="art/cover-sage.png" alt="Romeo, before the fall: a red dachshund sage in dark robes on a cliff above misty mountain pagodas" width="520"></p>
+
+<p align="center"><em>Romeo, before the fall</em></p>
+
 A serialized xianxia LitRPG about Romeo, a small red-and-white piebald dachshund who is also an immortal cultivator. A new chapter is written daily.
 
 ## Files
@@ -7,6 +11,12 @@ A serialized xianxia LitRPG about Romeo, a small red-and-white piebald dachshund
 - [Series Bible](00-series-bible.md): fixed canon and style rules
 - [Continuity Ledger](01-continuity-ledger.md): current state of the story, rewritten after each chapter
 - [Notes for Next Chapter](02-notes-for-next-chapter.md): plot nudges for the next chapter
+
+## Art
+
+<p align="center"><img src="art/romeo-tattooed.png" alt="Romeo with dragon tattoos, robes and prayer beads, haloed against misty peaks" width="420"> <img src="art/romeo.svg" alt="Portrait of the real Romeo, sitting and looking up" width="360"></p>
+
+<p align="center"><em>Left: the tattooed master. Right: the real Romeo.</em></p>
 
 ## Chapters
 
