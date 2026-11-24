@@ -52,3 +52,4 @@ A serialized xianxia LitRPG about Romeo, a small red-and-white piebald dachshund
 - [Chapter 30: The Wrong Way Round](chapters/030-the-wrong-way-round.md)
 - [Chapter 31: The Long White Shoulder](chapters/031-the-long-white-shoulder.md)
 - [Chapter 32: Weight in the Wrong Places](chapters/032-weight-in-the-wrong-places.md)
+- [Chapter 33: A Whole Pot](chapters/033-a-whole-pot.md)
