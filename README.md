@@ -54,3 +54,4 @@ A serialized xianxia LitRPG about Romeo, a small red-and-white piebald dachshund
 - [Chapter 32: Weight in the Wrong Places](chapters/032-weight-in-the-wrong-places.md)
 - [Chapter 33: A Whole Pot](chapters/033-a-whole-pot.md)
 - [Chapter 34: What's in the Pockets](chapters/034-whats-in-the-pockets.md)
+- [Chapter 35: Marked Present](chapters/035-marked-present.md)
