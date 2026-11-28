@@ -56,3 +56,4 @@ A serialized xianxia LitRPG about Romeo, a small red-and-white piebald dachshund
 - [Chapter 34: What's in the Pockets](chapters/034-whats-in-the-pockets.md)
 - [Chapter 35: Marked Present](chapters/035-marked-present.md)
 - [Chapter 36: The Third Board](chapters/036-the-third-board.md)
+- [Chapter 37: Kid Leather](chapters/037-kid-leather.md)
